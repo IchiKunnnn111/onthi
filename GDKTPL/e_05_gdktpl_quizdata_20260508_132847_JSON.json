@@ -1,0 +1,792 @@
+{
+  "quiz_info": {
+    "title": "MIXEASY ONLINE",
+    "tenBaiKiemTra": "ĐỀ 05-GDKTPL",
+    "time_limit": 50,
+    "quiz_time_leftmode": "cotinh",
+    "quiz_password": "",
+    "mode_xuatketqua": "GV_TL",
+    "mode_xuatcsv": false,
+    "allowViewAll": true,
+    "mode_localstorage": "no_save",
+    "script_url": "https://script.google.com/macros/s/AKfycbwfNnM0fkLEBuPHtk1CLNOXI9MfNAgZIU4O6Eurhd_tBCwIH1vjsnJkpEHbACe2_wYx/exec",
+    "sheet_name": "GDKTPL",
+    "shuffle_options": {
+      "shuffle_q_type1": false,
+      "shuffle_a_type1": false,
+      "shuffle_q_type2": false,
+      "shuffle_a_type2": false,
+      "shuffle_q_type3": false
+    },
+    "scoring": {
+      "type1": 0.25,
+      "type2_1": 0.1,
+      "type2_2": 0.25,
+      "type2_3": 0.5,
+      "type2_4": 1.0,
+      "type3": 0.5
+    }
+  },
+  "type1": [
+    [
+      {
+        "type": "type1",
+        "q_num": 1,
+        "question": "Mối quan hệ giữa tăng trưởng kinh tế và phát triển bền vững được thể hiện ở nội dung nào dưới đây?",
+        "answers": [
+          {
+            "text": "Tăng trưởng kinh tế và phát triển bền vững không liên quan đến nhau.",
+            "is_correct": 0
+          },
+          {
+            "text": "Tăng trưởng kinh tế không gây ảnh hưởng đến phát triển bền vững.",
+            "is_correct": 0
+          },
+          {
+            "text": "Tăng trưởng kinh tế quan trọng nhưng không đảm bảo phát triển bền vững.",
+            "is_correct": 0
+          },
+          {
+            "text": "Tăng trưởng kinh tế là điều kiện tiên quyết để đạt được phát triển bền vững.",
+            "is_correct": 1
+          }
+        ],
+        "solution": "",
+        "original_index": 0
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 2,
+        "question": "Trong nền kinh tế hàng hóa, giá bán thực tế của hàng hoá trên thị trường được gọi là",
+        "answers": [
+          {
+            "text": "giá trị sử dụng.",
+            "is_correct": 0
+          },
+          {
+            "text": "giá trị hàng hóa.",
+            "is_correct": 0
+          },
+          {
+            "text": "giá cả thị trường.",
+            "is_correct": 1
+          },
+          {
+            "text": "giả cả nhà nước",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 1
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 3,
+        "question": "Phát biểu nào sau đây là sai khi nói về vai trò của ngân sách nhà nước?",
+        "answers": [
+          {
+            "text": "Ngân sách nhà nước đảm bảo nền kinh tế phát triển ổn định, bền vững",
+            "is_correct": 0
+          },
+          {
+            "text": "Ngân sách nhà nước cung cấp tài chính duy trì hoạt động của nhà nước.",
+            "is_correct": 0
+          },
+          {
+            "text": "Ngân sách nhà nước điều tiết thị trường, bình ổn giá cả hàng hóa",
+            "is_correct": 0
+          },
+          {
+            "text": "Ngân sách nhà nước trả lương cho lao động trong doanh nghiệp tư nhân.",
+            "is_correct": 1
+          }
+        ],
+        "solution": "",
+        "original_index": 2
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 4,
+        "question": "Buộc tội bị cáo và bảo vệ sự buộc tội trước tòa bằng cách công bố bản cáo trạng là hoạt động tư pháp của cơ quan nào dưới đây?",
+        "answers": [
+          {
+            "text": "Viện kiểm sát nhân dân.",
+            "is_correct": 1
+          },
+          {
+            "text": "Tòa án nhân dân.",
+            "is_correct": 0
+          },
+          {
+            "text": "Ủy ban nhân dân.",
+            "is_correct": 0
+          },
+          {
+            "text": "Hội đồng nhân dân.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 3
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 5,
+        "question": "Ngay sau khi xác định được ý tưởng và mục tiêu kinh doanh, bước tiếp theo trong quy trình lập kế hoạch kinh doanh là",
+        "answers": [
+          {
+            "text": "phân tích các điều kiện thực hiện ý tưởng kinh doanh.",
+            "is_correct": 1
+          },
+          {
+            "text": "điều chỉnh chế tài xử phạt hành vi cạnh tranh không lành mạnh.",
+            "is_correct": 0
+          },
+          {
+            "text": "hoàn thiện hành lang pháp lí cho hoạt động kinh doanh.",
+            "is_correct": 0
+          },
+          {
+            "text": "xác định chiến lược giảm tỉ lệ lạm phát trong nền kinh tế",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 4
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 6,
+        "question": "Phát biểu nào dưới đây là sai về sự cần thiết của hội nhập kinh tế quốc tế?",
+        "answers": [
+          {
+            "text": "Hội nhập kinh tế quốc tế chỉ cần thiết với những quốc gia đang thiếu các nguồn lực về vốn.",
+            "is_correct": 1
+          },
+          {
+            "text": "Các nước đang phát triển cần tham gia hội nhập kinh tế quốc tế để tiếp cận và sử dụng được các nguồn lực bên ngoài.",
+            "is_correct": 0
+          },
+          {
+            "text": "Hội nhập kinh tế quốc tế có khả năng thúc đẩy tăng trưởng và phát triển kinh tế quốc gia.",
+            "is_correct": 0
+          },
+          {
+            "text": "Đối với nước ta, hội nhập kinh tế là con đường ngắn nhất để rút ngắn khoảng cách tụt hậu.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 5
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 7,
+        "question": "Đơn vị nhỏ nhất trong hệ thống pháp luật đó là",
+        "answers": [
+          {
+            "text": "chế định pháp luật.",
+            "is_correct": 0
+          },
+          {
+            "text": "ngành luật.",
+            "is_correct": 0
+          },
+          {
+            "text": "quy phạm pháp luật.",
+            "is_correct": 1
+          },
+          {
+            "text": "hệ thống pháp luật.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 6
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 8,
+        "question": "Giá cả hàng hóa trên thị trường giảm trong khi giá cả của các yếu tố sản xuất không tăng khi đó cung, cầu thay đổi theo hướng nào sau đây?",
+        "answers": [
+          {
+            "text": "Cung tăng, cầu giảm.",
+            "is_correct": 0
+          },
+          {
+            "text": "Cung giảm, cầu tăng.",
+            "is_correct": 1
+          },
+          {
+            "text": "Cung giảm, cầu giảm.",
+            "is_correct": 0
+          },
+          {
+            "text": "Cung tăng, cầu tăng.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 7
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 9,
+        "question": "Nhà máy X chuyên sản xuất vật liệu xây dựng. Khu vực sản xuất của công ty có rất nhiều bụi từ cát xây dựng và khói thải từ những thiết bị cũ, nước thải khi thi công và vệ sinh máy móc cũng được xả thẳng ra môi trường. Một số công nhân ở đây không được trang bị đầy đủ đồ bảo hộ lao động. Nhà máy X đã vi phạm những hình thức trách nhiệm xã hội nào?",
+        "answers": [
+          {
+            "text": "Trách nhiệm pháp lý và trách nhiệm kinh tế.",
+            "is_correct": 0
+          },
+          {
+            "text": "Trách nhiệm đạo đức và trách nhiệm pháp lý.",
+            "is_correct": 1
+          },
+          {
+            "text": "Trách nhiệm đạo đức và trách nhiệm nhân văn.",
+            "is_correct": 0
+          },
+          {
+            "text": "Trách nhiệm kinh tế và trách nhiệm đạo đức.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 8
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 10,
+        "question": "Có mấy nhận định sai khi nói về lạm phát?<br>a) Lạm phát là tình trạng mức giá chung của nền kinh tế giảm xuống trong một khoảng thời gian nhất định.<br>b) Lạm phát do chi phí đẩy xuất hiện khi người dân tăng chi tiêu, doanh nghiệp tăng đầu tư, Chính phủ tăng chi tiêu mua hàng hóa và dịch vụ.<br>c) Lạm phát do cầu kéo xuất hiện khi giá nguyên liệu, nhiên liệu, vật liệu, nhân công, thuế,... tăng.<br>d) Lạm phát do lượng tiền mặt trong lưu thông tăng vượt quá mức cần thiết xuất hiện khi ngân sách thâm hụt, Chính phủ tăng cường việc phát hành tiền giấy.",
+        "answers": [
+          {
+            "text": "1.",
+            "is_correct": 0
+          },
+          {
+            "text": "2.",
+            "is_correct": 0
+          },
+          {
+            "text": "3.",
+            "is_correct": 1
+          },
+          {
+            "text": "4",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 9
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 11,
+        "question": "Các nguồn giúp tạo ý tưởng kinh doanh của chủ thể sản xuất kinh doanh xuất phát từ",
+        "answers": [
+          {
+            "text": "lợi thế nội tại và cơ hội bên ngoài.",
+            "is_correct": 1
+          },
+          {
+            "text": "điểm yếu nội tại và khó khăn bên ngoài.",
+            "is_correct": 0
+          },
+          {
+            "text": "những mâu thuẫn của chủ thể sản xuất kinh doanh.",
+            "is_correct": 0
+          },
+          {
+            "text": "những khó khăn nội tại của chủ thể sản xuất kinh doanh.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 10
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 12,
+        "question": "Theo em hành vi nào sau đây là thực hiện quy định của pháp luật về quyền và nghĩa vụ của công dân về bảo vệ Tổ quốc?<br>a) Anh B là sinh viên đại học nhưng vẫn đăng kí thực hiện nghĩa vụ quân sự theo quy định của pháp luật.<br>b) Ông D là cán bộ xã nên đã can thiệp cho cháu mình được hoãn nghĩa vụ quân sự dù không thuộc trường hợp pháp luật quy định.<br>c) Anh M luôn tích cực kết hợp cùng bộ đội biên phòng tham gia tuần tra biên giới<br>d) Bà K đã giấu lệnh gọi nhập ngũ của con trai vì muốn con tiếp tục đi làm phụ giúp kinh tế cho gia đình.<br>e) Chị N là hội viên của Hội phụ nữ xã X đã tích cực tham gia tuyên truyền Luật Nghĩa vụ quân sự cho mọi người ở địa phương.",
+        "answers": [
+          {
+            "text": "(a), (c), (e).",
+            "is_correct": 1
+          },
+          {
+            "text": "(a), (c), (b).",
+            "is_correct": 0
+          },
+          {
+            "text": "(a), (d), (d).",
+            "is_correct": 0
+          },
+          {
+            "text": "(b), (c), (d).",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 11
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 13,
+        "question": "Phát biểu nào dưới đây là sai về vai trò của pháp luật quốc tế?",
+        "answers": [
+          {
+            "text": "Pháp luật quốc tế thúc đẩy quan hệ hữu nghị và hợp tác quốc tế.",
+            "is_correct": 0
+          },
+          {
+            "text": "Pháp luật quốc tế là cơ sở để xâm phạm các quyền con người.",
+            "is_correct": 1
+          },
+          {
+            "text": "Pháp luật quốc tế chống mọi hình thức phân biệt chủng tộc.",
+            "is_correct": 0
+          },
+          {
+            "text": "Pháp luật quốc tế góp phần bảo vệ hòa bình và an ninh quốc tế.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 12
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 14,
+        "question": "Theo quy định của pháp luật, hành vi đánh người gây thương tích là vi phạm quyền tự do cơ bản nào dưới đây của công dân?",
+        "answers": [
+          {
+            "text": "Bất khả xâm phạm về thân thể.",
+            "is_correct": 0
+          },
+          {
+            "text": "Tự do về thân thể của công dân.",
+            "is_correct": 0
+          },
+          {
+            "text": "Bảo hộ về danh dự, nhân phẩm.",
+            "is_correct": 0
+          },
+          {
+            "text": "Bảo hộ về tính mạng, sức khỏe.",
+            "is_correct": 1
+          }
+        ],
+        "solution": "",
+        "original_index": 13
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 15,
+        "question": "Phát biểu nào dưới đây là đúng về sự cần thiết phải quản lý thu chi trong gia đình.",
+        "answers": [
+          {
+            "text": "Lập kế hoạch thu chi trong gia đình giúp mỗi thành viên chi tiêu không giới hạn.",
+            "is_correct": 0
+          },
+          {
+            "text": "Lập kế hoạch thu chi trong gia đình giúp hạn chế các thói quen chi tiêu tích cực.",
+            "is_correct": 0
+          },
+          {
+            "text": "Lập kế hoạch thu chi trong gia đình là giải pháp để cân bằng tài chính gia đình.",
+            "is_correct": 1
+          },
+          {
+            "text": "Lập kế hoạch thu chi trong gia đình nhằm kiểm soát nguồn chi tiêu của người vợ.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 14
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 16,
+        "question": "Một trong những mục đích của việc thực hiện quản lý thu, chi trong gia đình là nhằm",
+        "answers": [
+          {
+            "text": "kiểm soát các nguồn thu trong gia đình.",
+            "is_correct": 1
+          },
+          {
+            "text": "kiểm soát các khoản thu của con.",
+            "is_correct": 0
+          },
+          {
+            "text": "kiểm soát các khoản chi của con.",
+            "is_correct": 0
+          },
+          {
+            "text": "kiểm soát các khoản chi của người chồng.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 15
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 17,
+        "question": "Phát biểu nào dưới đây là sai về quyền học tập của công dân?",
+        "answers": [
+          {
+            "text": "Mọi công dân đều có quyền học tập suốt đời.",
+            "is_correct": 0
+          },
+          {
+            "text": "Mọi công dân đều có quyền học tập bất kì ngành nghề nào.",
+            "is_correct": 1
+          },
+          {
+            "text": "Mọi công dân đều có quyền học tập không hạn chế.",
+            "is_correct": 0
+          },
+          {
+            "text": "Mọi công dân đều có quyền học tập từ thấp đến cao.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 16
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 18,
+        "question": "Vùng biển thuộc chủ quyền của quốc gia ven biển bao gồm",
+        "answers": [
+          {
+            "text": "khu vực thềm lục địa.",
+            "is_correct": 0
+          },
+          {
+            "text": "vùng tiếp giáp lãnh hải.",
+            "is_correct": 0
+          },
+          {
+            "text": "vùng đặc quyền kinh tế.",
+            "is_correct": 0
+          },
+          {
+            "text": "nội thuỷ và lãnh hải.",
+            "is_correct": 1
+          }
+        ],
+        "solution": "",
+        "original_index": 17
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 19,
+        "question": "Đọc thông tin để trả lời câu hỏi 19, 20<br>Năm 2022, GDP ước tính tăng 8,02%. Theo đó, GDP bình quân đầu người năm 2022 theo giá hiện hành ước đạt 95,6 triệu đồng/người, tương đương 4 110 USD, riêng GDP quý IV/2023 ước tính tăng 6,72% so với cùng kỳ năm trước, cao hơn quý IV năm 2020 - 2021, quý sau cao hơn quý trước (quý I tăng 3,41%, quý II tăng 4,25%, quý III tăng 5,47%). Điều này giúp cho nền kinh tế ổn định, tỷ lệ lao động qua đào tạo có bằng, chứng chỉ năm 2022 đạt 26,2%, cao hơn 0,1 điểm phần trăm so với năm 2021, qua đó tạo điều kiện giải quyết việc làm cho người lao động, tăng thu nhập, nâng cao phúc lợi xã hội, phát triển văn hóa, giáo dục, thể thao.<br>Qua thông tin trên, tăng GDP ổn định giữ vị trí như thế nào đối với sự phát triển bền vững?",
+        "answers": [
+          {
+            "text": "Là điều kiện duy nhất của phát triển bền vững.",
+            "is_correct": 0
+          },
+          {
+            "text": "Là điều kiện khách quan của phát triển bền vững.",
+            "is_correct": 0
+          },
+          {
+            "text": "Là tiêu chí hàng đầu của phát triển bền vững.",
+            "is_correct": 1
+          },
+          {
+            "text": "Tác động tiêu cực đến sự phát triển bền vững.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 18
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 20,
+        "question": "Đọc thông tin để trả lời câu hỏi 19, 20<br>Năm 2022, GDP ước tính tăng 8,02%. Theo đó, GDP bình quân đầu người năm 2022 theo giá hiện hành ước đạt 95,6 triệu đồng/người, tương đương 4 110 USD, riêng GDP quý IV/2023 ước tính tăng 6,72% so với cùng kỳ năm trước, cao hơn quý IV năm 2020 - 2021, quý sau cao hơn quý trước (quý I tăng 3,41%, quý II tăng 4,25%, quý III tăng 5,47%). Điều này giúp cho nền kinh tế ổn định, tỷ lệ lao động qua đào tạo có bằng, chứng chỉ năm 2022 đạt 26,2%, cao hơn 0,1 điểm phần trăm so với năm 2021, qua đó tạo điều kiện giải quyết việc làm cho người lao động, tăng thu nhập, nâng cao phúc lợi xã hội, phát triển văn hóa, giáo dục, thể thao.<br>Nhận định nào dưới đây phản ánh đúng các yếu tố cấu thành nên GDP của Việt Nam trong năm 2022?",
+        "answers": [
+          {
+            "text": "GDP năm 2022 là tổng giá trị hàng hóa do người dân Việt Nam tạo ra cả trong và ngoài nước.",
+            "is_correct": 0
+          },
+          {
+            "text": "GDP năm 2022 là tổng giá trị hàng hóa do người dân Việt Nam ở trong nước tạo ra và do người nước ngoài sản xuất kinh doanh tại Việt Nam.",
+            "is_correct": 1
+          },
+          {
+            "text": "GDP năm 2022 là tổng giá trị hàng hóa do người dân nước ngoài sản xuất kinh doanh tại Việt Nam",
+            "is_correct": 0
+          },
+          {
+            "text": "GDP năm 2022 là tổng giá trị hàng hóa do người dân Việt Nam ở trong nước tạo ra và do người Việt Nam sản xuất kinh doanh tại nước ngoài.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 19
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 21,
+        "question": "Đọc thông tin và trả lời các câu 21, 22<br>Chị N làm việc tại Doanh nghiệp Y theo hợp đồng không xác định thời hạn. Trong quá trình làm việc tại doanh nghiệp, chị N được doanh nghiệp Y đóng các loại bảo hiểm bắt buộc đúng quy định của Luật Bảo hiểm xã hội, Luật Bảo hiểm y tế và Luật Lao động. Sau một thời gian làm việc, do hỏa hoạn xảy ra làm doanh nghiệp phải ngừng hoạt động, chị N đã bị chấm dứt hợp đồng lao động. Doanh nghiệp Y hỗ trợ cho những công nhân mất việc như chị N mỗi tháng 2 triệu đồng và sau 3 tháng kể từ khi mất việc chị N nhận được khoản tiền trợ cấp thất nghiệp nên chị có thể đảm bảo được cuộc sống hiện tại của mình.<br>Trước khi mất việc làm, chị N đã tham gia các loại hình bảo hiểm nào dưới đây?",
+        "answers": [
+          {
+            "text": "Bảo hiểm xã hội bắt buộc, bảo hiểm y tế bắt buộc và bảo hiểm thất nghiệp.",
+            "is_correct": 1
+          },
+          {
+            "text": "Bảo hiểm xã hội tự nguyện, bảo hiểm y tế bắt buộc và bảo hiểm thất nghiệp.",
+            "is_correct": 0
+          },
+          {
+            "text": "Bảo hiểm thương mại, bảo hiểm y tế bắt buộc và bảo hiểm thất nghiệp.",
+            "is_correct": 0
+          },
+          {
+            "text": "Bảo hiểm xã hội bắt buộc, bảo hiểm y tế tự nguyện và bảo hiểm thất nghiệp.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 20
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 22,
+        "question": "Đọc thông tin và trả lời các câu 21, 22<br>Chị N làm việc tại Doanh nghiệp Y theo hợp đồng không xác định thời hạn. Trong quá trình làm việc tại doanh nghiệp, chị N được doanh nghiệp Y đóng các loại bảo hiểm bắt buộc đúng quy định của Luật Bảo hiểm xã hội, Luật Bảo hiểm y tế và Luật Lao động. Sau một thời gian làm việc, do hỏa hoạn xảy ra làm doanh nghiệp phải ngừng hoạt động, chị N đã bị chấm dứt hợp đồng lao động. Doanh nghiệp Y hỗ trợ cho những công nhân mất việc như chị N mỗi tháng 2 triệu đồng và sau 3 tháng kể từ khi mất việc chị N nhận được khoản tiền trợ cấp thất nghiệp nên chị có thể đảm bảo được cuộc sống hiện tại của mình.<br>Chế độ của bảo hiểm thất nghiệp mà chị N có thể được hưởng không bao gồm chế độ nào sau đây?",
+        "answers": [
+          {
+            "text": "Trợ cấp thất nghiệp.",
+            "is_correct": 0
+          },
+          {
+            "text": "Hỗ trợ tư vấn giới thiệu việc làm.",
+            "is_correct": 0
+          },
+          {
+            "text": "Hỗ trợ học nghề.",
+            "is_correct": 0
+          },
+          {
+            "text": "Hỗ trợ đáp ứng nhu cầu cho người lao động.",
+            "is_correct": 1
+          }
+        ],
+        "solution": "",
+        "original_index": 21
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 23,
+        "question": "Đọc thông tin để trả lời các câu hỏi 23, 24<br>Anh N và anh K cùng vào nhập viện đa khoa tại tỉnh H do bị tai nạn giao thông. Các bác sĩ nhận thấy anh K có dấu hiệu nguy kịch vì bị chấn thương nặng ở vùng ngực, khó thở và có dấu hiệu tụ máu trong lồng ngực nên đã ưu tiên đưa anh K vào phòng cấp cứu trước, còn anh N do chỉ bị gãy tay nên bác sĩ đề nghị anh N chờ đợi. Bức xúc vì đang bị đau lại phải chờ đợi, anh N đã lớn tiếng xúc phạm toàn bộ nhân viên ca trực phòng cấp cứu lúc đó. Sau khi bác sĩ M giải thích rõ với anh N về tình trạng bệnh của mình và quy định thứ tự ưu tiên trong khám và chữa bệnh, anh N chấp nhận chờ đợi nhưng tâm lí vẫn không thoải mái.<br>Việc làm của các bác sĩ đối với anh K trong trường hợp trên là bảo đảm quyền nào của công dân trong bảo vệ, chăm sóc sức khỏe?",
+        "answers": [
+          {
+            "text": "Được tiếp cận thông tin về chăm sóc, bảo vệ sức khỏe.",
+            "is_correct": 1
+          },
+          {
+            "text": "Được hưởng mọi chế độ ưu tiên khi nhập viện điều trị.",
+            "is_correct": 0
+          },
+          {
+            "text": "Được bình đẳng trong quá trình khám bệnh, chữa bệnh.",
+            "is_correct": 0
+          },
+          {
+            "text": "Đảm bảo bí mật cá nhân trong khám bệnh, chữa bệnh.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 22
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 24,
+        "question": "Đọc thông tin để trả lời các câu hỏi 23, 24<br>Anh N và anh K cùng vào nhập viện đa khoa tại tỉnh H do bị tai nạn giao thông. Các bác sĩ nhận thấy anh K có dấu hiệu nguy kịch vì bị chấn thương nặng ở vùng ngực, khó thở và có dấu hiệu tụ máu trong lồng ngực nên đã ưu tiên đưa anh K vào phòng cấp cứu trước, còn anh N do chỉ bị gãy tay nên bác sĩ đề nghị anh N chờ đợi. Bức xúc vì đang bị đau lại phải chờ đợi, anh N đã lớn tiếng xúc phạm toàn bộ nhân viên ca trực phòng cấp cứu lúc đó. Sau khi bác sĩ M giải thích rõ với anh N về tình trạng bệnh của mình và quy định thứ tự ưu tiên trong khám và chữa bệnh, anh N chấp nhận chờ đợi nhưng tâm lí vẫn không thoải mái.<br>Hành vi của anh N đối với toàn bộ nhân viên ca trực phòng cấp cứu tại bệnh viện tỉnh H trong trường hợp trên có thể phải chịu trách nhiệm pháp lí nào?",
+        "answers": [
+          {
+            "text": "Xử phạt vi phạm hành chính.",
+            "is_correct": 1
+          },
+          {
+            "text": "Giảm các thuốc điều trị khi nằm viện.",
+            "is_correct": 0
+          },
+          {
+            "text": "Tạm dừng sử dụng thẻ bảo hiểm y tế.",
+            "is_correct": 0
+          },
+          {
+            "text": "Truy cứu trách nhiệm hình sự.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 23
+      }
+    ]
+  ],
+  "type2": [
+    [
+      {
+        "type": "type2",
+        "q_num": 25,
+        "question": "Chủ quyền đối với nội thuỷ, lãnh hải: Theo Công ước Liên hợp quốc về Luật Biển (UNCLOS) năm 1982, các quốc gia ven biển có chủ quyền đối với nội thuỷ và lãnh hải của mình, chủ quyền này cũng được mở rộng vùng trời ở bên trên đến vùng đáy biển và lòng đất dưới đáy biển ở bên dưới các vùng biển đó. Điều 8, khoản 1 của UNCLOS định nghĩa nội thuỷ là \"các vùng nước ở phía bên trong đường cơ sở dùng để tính chiều rộng lãnh hải\". Trong vùng nội thuỷ, các quốc gia ven biển có chủ quyền hoàn toàn, tuyệt đối và đầy đủ như trên lãnh thổ đất liền của mình. Tàu thuyền nước ngoài muốn ra vào vùng nội thuỷ phải xin phép quốc gia ven biển và phải tuân theo luật lệ của quốc gia đó.",
+        "options": [
+          {
+            "text": "Lãnh hải là vùng biển nằm phía ngoài và tiếp liền nội thuỷ, có chiều rộng không vượt quá 12 hải lí tính từ đường cơ sở ra phía biển.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Nhà nước ta thực hiện chủ quyền đầy đủ và toàn vẹn đối với lãnh hải và vùng trời, đáy biển và lòng đất dưới đáy biển của lãnh hải phù hợp với Công ước Liên hợp quốc về Luật Biển năm 1982.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Nhà nước không có chủ quyền đối với mọi loại hiện vật khảo cổ lịch sử trong lãnh hải Việt Nam.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Các phương tiện bay nước ngoài không được vào vùng trời ở trên lãnh hải Việt Nam, trừ trường hợp được sự đồng ý của Chính phủ Việt Nam hoặc thực hiện theo điều ước quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.",
+            "correct_answer": "Đ"
+          }
+        ],
+        "solution": "",
+        "original_index": 24
+      }
+    ],
+    [
+      {
+        "type": "type2",
+        "q_num": 26,
+        "question": "Đảng và Nhà nước xác định vấn đề bảo đảm nhà ở ổn định cho người dân là một nhiệm vụ xã hội quan trọng. Chính vì vậy, để bảo đảm điều kiện sinh sống tối thiểu cho người dân, Luật Nhà ở năm 2014 quy định các chính sách hỗ trợ về nhà ở cho một số đối tượng: hộ gia đình nghèo và cận nghèo tại khu vực nông thôn; hộ gia đình tại khu vực thường xuyên bị ảnh hưởng nặng bởi thiên tai, biến đổi khí hậu; người thu nhập thấp, hộ nghèo, cận nghèo tại khu vực đô thị; người lao động đang làm việc tại các doanh nghiệp trong và ngoài khu công nghiệp; học sinh, sinh viên các học viện, trường đại học, cao đẳng, dạy nghề; học sinh trường dân tộc nội trú công lập được sử dụng nhà ở trong thời gian học tập. Nhà nước đã ban hành một số chính sách về đất đai, huy động vốn, vay vốn ưu đãi và loại hình phát triển nhà ở xã hội. Đồng thời, Nhà nước cũng đã ban hành các cơ chế, chính sách khuyến khích các tổ chức chính trị - xã hội, cộng đồng doanh nghiệp, các tổ chức xã hội và người dân đã tích cực tham gia xây dựng nhà ở xã hội, nhất là cho các đối tượng nghèo, khó khăn.",
+        "options": [
+          {
+            "text": "Vấn đề bảo đảm nhà ở ổn định cho người dân là nội dung cơ bản của chính sách trợ giúp xã hội.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Nam cần có chính sách bảo hiểm về nhà ở để hỗ trợ người có thu nhập thấp vay vốn mua nhà ổn định cuộc sống.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Thực hiện chính sách về nhà ở cho người dân chính là thực hiện tốt chỉ số về tiến bộ xã hội đối với sự phát triển kinh tế.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Giải quyết vấn đề nhà ở xã hội là trách nhiệm của toàn xã hội.",
+            "correct_answer": "Đ"
+          }
+        ],
+        "solution": "",
+        "original_index": 25
+      }
+    ],
+    [
+      {
+        "type": "type2",
+        "q_num": 27,
+        "question": "Chị E giao kết hợp đồng lao động không xác định thời hạn với công ty A. Hàng tháng, chị E đóng đầy đủ các loại BHXH. Đến 01/6/2020, chị E nghỉ thai sản (nghỉ đến hết 31/12/2020). Vì lý do gia đình, 01/1/2021 chị E nộp đơn xin nghỉ việc. Trước khi chấm dứt HĐLĐ, tổng thời gian đóng bảo hiểm thất nghiệp là 15 tháng. Căn cứ vào quy định của pháp luật lao động chị đã làm hồ sơ gửi cơ quan chức năng để nhận hỗ trợ theo quy định. Sau đó được sự tư vấn của bạn bè, chị E tham gia gói bảo hiểm nhân thọ cho cả mẹ và con chị.",
+        "options": [
+          {
+            "text": "Loại hình bảo hiểm xã hội mà chị E tham gia trước khi nghỉ việc là bảo hiểm xã hội tự nguyện.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Chị E đã tham gia loại hình bảo hiểm thất nghiệp tự nguyện nên chị được hưởng trợ cấp thất nghiệp..",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Trước khi nghỉ việc chị E không tham gia bảo hiểm y tế.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Bảo hiểm nhân thọ mà chị E tham gia là loại hình bảo hiểm thương mai.",
+            "correct_answer": "Đ"
+          }
+        ],
+        "solution": "",
+        "original_index": 26
+      }
+    ],
+    [
+      {
+        "type": "type2",
+        "q_num": 28,
+        "question": "Bà M có con gái là chị H sống cùng vợ chồng con trai là anh A và chị B. Nghi ngờ anh A tham gia đánh bạc trực tuyến, chị B bí mật rút tiền tiết kiệm của hai vợ chồng rồi nhờ mẹ đẻ chị là bà Q giữ hộ. Vốn coi thường anh A không có thu nhập ổn định nên bà Q đã khuyên con gái góp vốn cùng bà kinh doanh nhu yếu phẩm và được chị B đồng ý. Biết chuyện, chị H bịa đặt và đưa thông tin sai lệch về chị B lên mạng xã hội đồng thời cùng bà M đến nhà bà Q vu khống bà Q lừa đảo chiếm đoạt tài sản của vợ chồng anh A nên giữa hai bà xảy ra xô xát.",
+        "options": [
+          {
+            "text": "Bà Q và chị B vi phạm quyền và nghĩa vụ của vợ và chồng trong quan hệ tài sản.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Bà Q và chị B chưa thực hiện tốt nghĩa vụ tôn trọng tài sản của công dân.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Chị H vi phạm quyền và nghĩa vụ giữa các thành viên trong gia đình.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Bà M và bà Q cùng vi phạm quyền và nghĩa vụ giữa các thành viên trong gia đình.",
+            "correct_answer": "S"
+          }
+        ],
+        "solution": "",
+        "original_index": 27
+      }
+    ]
+  ],
+  "type3": [],
+  "general_content": []
+}

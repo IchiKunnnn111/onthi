@@ -1,0 +1,691 @@
+{
+  "quiz_info": {
+    "title": "MIXEASY ONLINE",
+    "tenBaiKiemTra": "ĐỀ 06-Địa lí",
+    "time_limit": 50,
+    "quiz_time_leftmode": "cotinh",
+    "quiz_password": "",
+    "mode_xuatketqua": "GV_TL",
+    "mode_xuatcsv": false,
+    "allowViewAll": true,
+    "mode_localstorage": "no_save",
+    "script_url": "https://script.google.com/macros/s/AKfycbwfNnM0fkLEBuPHtk1CLNOXI9MfNAgZIU4O6Eurhd_tBCwIH1vjsnJkpEHbACe2_wYx/exec",
+    "sheet_name": "Dia_Li",
+    "shuffle_options": {
+      "shuffle_q_type1": false,
+      "shuffle_a_type1": false,
+      "shuffle_q_type2": false,
+      "shuffle_a_type2": false,
+      "shuffle_q_type3": false
+    },
+    "scoring": {
+      "type1": 0.25,
+      "type2_1": 0.1,
+      "type2_2": 0.25,
+      "type2_3": 0.5,
+      "type2_4": 1.0,
+      "type3": 0.25
+    }
+  },
+  "type1": [
+    [
+      {
+        "type": "type1",
+        "q_num": 1,
+        "question": "Việt Nam nằm hoàn toàn trong vùng khí hậu nào sau đây?",
+        "answers": [
+          {
+            "text": "Nhiệt đới gió mùa.",
+            "is_correct": 1
+          },
+          {
+            "text": "Ôn đới hải dương.",
+            "is_correct": 0
+          },
+          {
+            "text": "Cận nhiệt địa trung hải.",
+            "is_correct": 0
+          },
+          {
+            "text": "Hàn đới lục địa.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 0
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 2,
+        "question": "Hiện nay, dân số thành thị nước ta có đặc điểm nào sau đây?",
+        "answers": [
+          {
+            "text": "Tỉ trọng trong tổng số dân đang tăng lên.",
+            "is_correct": 1
+          },
+          {
+            "text": "Phân bố rất đều giữa các vùng miền.",
+            "is_correct": 0
+          },
+          {
+            "text": "Hoàn toàn tập trung ở các thành phố lớn.",
+            "is_correct": 0
+          },
+          {
+            "text": "Chỉ hoạt động trong ngành nông nghiệp.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 1
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 3,
+        "question": "Ngành công nghiệp nào sau đây thuộc nhóm ngành công nghiệp năng lượng ở nước ta hiện nay?",
+        "answers": [
+          {
+            "text": "Khai thác dầu thô.",
+            "is_correct": 1
+          },
+          {
+            "text": "Sản xuất trang phục.",
+            "is_correct": 0
+          },
+          {
+            "text": "Chế biến thực phẩm.",
+            "is_correct": 0
+          },
+          {
+            "text": "Sản xuất giấy.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 2
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 4,
+        "question": "Loại hình giao thông vận tải nào có khối lượng luân chuyển hàng hóa lớn nhất nước ta hiện nay?",
+        "answers": [
+          {
+            "text": "Đường biển.",
+            "is_correct": 1
+          },
+          {
+            "text": "Đường sắt.",
+            "is_correct": 0
+          },
+          {
+            "text": "Đường bộ.",
+            "is_correct": 0
+          },
+          {
+            "text": "Đường hàng không.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 3
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 5,
+        "question": "Phát biểu nào sau đây đúng với tình hình phát triển ngành du lịch nước ta hiện nay?",
+        "answers": [
+          {
+            "text": "Khách du lịch nội địa có xu hướng giảm.",
+            "is_correct": 0
+          },
+          {
+            "text": "Doanh thu du lịch ngày càng tăng lên.",
+            "is_correct": 1
+          },
+          {
+            "text": "Chỉ tập trung phát triển du lịch biển đảo.",
+            "is_correct": 0
+          },
+          {
+            "text": "Cơ sở hạ tầng du lịch còn rất lạc hậu.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 4
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 6,
+        "question": "Vật nuôi nào sau đây được nuôi phổ biến nhất ở các đồng bằng nước ta hiện nay?",
+        "answers": [
+          {
+            "text": "Lợn.",
+            "is_correct": 1
+          },
+          {
+            "text": "Cừu.",
+            "is_correct": 0
+          },
+          {
+            "text": "Ngựa.",
+            "is_correct": 0
+          },
+          {
+            "text": "Dê.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 5
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 7,
+        "question": "Vùng Trung du và miền núi phía Bắc có thế mạnh hàng đầu về",
+        "answers": [
+          {
+            "text": "khai thác khoáng sản.",
+            "is_correct": 1
+          },
+          {
+            "text": "phát triển lúa nước.",
+            "is_correct": 0
+          },
+          {
+            "text": "chăn nuôi gia súc nhỏ.",
+            "is_correct": 0
+          },
+          {
+            "text": "phát triển du lịch biển.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 6
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 8,
+        "question": "Một trong những cửa ngõ ra biển quan trọng của vùng Đồng bằng sông Hồng là cảng",
+        "answers": [
+          {
+            "text": "Hải Phòng.",
+            "is_correct": 1
+          },
+          {
+            "text": "Đà Nẵng.",
+            "is_correct": 0
+          },
+          {
+            "text": "Bình Định.",
+            "is_correct": 0
+          },
+          {
+            "text": "Cần Thơ.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 7
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 9,
+        "question": "Ngành công nghiệp hiện đại đang phát triển mạnh ở vùng Đông Nam Bộ là",
+        "answers": [
+          {
+            "text": "điện tử - tin học.",
+            "is_correct": 1
+          },
+          {
+            "text": "sản xuất giày, dép.",
+            "is_correct": 0
+          },
+          {
+            "text": "chế biến lâm sản.",
+            "is_correct": 0
+          },
+          {
+            "text": "sản xuất phân bón.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 8
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 10,
+        "question": "Loại thiên tai nào thường gây ra lũ quét ở vùng núi nước ta?",
+        "answers": [
+          {
+            "text": "Mưa lớn.",
+            "is_correct": 1
+          },
+          {
+            "text": "Hạn hán.",
+            "is_correct": 0
+          },
+          {
+            "text": "Sương muối.",
+            "is_correct": 0
+          },
+          {
+            "text": "Triều cường.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 9
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 11,
+        "question": "Chế độ mưa của nước ta có sự phân hóa theo mùa chủ yếu do",
+        "answers": [
+          {
+            "text": "tác động của gió mùa và các khối khí.",
+            "is_correct": 1
+          },
+          {
+            "text": "ảnh hưởng của địa hình và dòng biển.",
+            "is_correct": 0
+          },
+          {
+            "text": "vị trí nằm hoàn toàn ở vùng nội chí tuyến.",
+            "is_correct": 0
+          },
+          {
+            "text": "lãnh thổ hẹp ngang và kéo dài theo vĩ độ.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 10
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 12,
+        "question": "Tỉ lệ thiếu việc làm ở nông thôn nước ta còn cao chủ yếu do",
+        "answers": [
+          {
+            "text": "tính chất mùa vụ và nghề phụ chưa phát triển.",
+            "is_correct": 1
+          },
+          {
+            "text": "diện tích đất nông nghiệp ngày càng mở rộng.",
+            "is_correct": 0
+          },
+          {
+            "text": "lao động nông thôn có trình độ chuyên môn cao.",
+            "is_correct": 0
+          },
+          {
+            "text": "các máy móc đã thay thế hoàn toàn sức người.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 11
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 13,
+        "question": "Ngành ngoại thương của nước ta hiện nay phát triển mạnh mẽ chủ yếu nhờ",
+        "answers": [
+          {
+            "text": "hội nhập kinh tế sâu rộng và mở rộng thị trường.",
+            "is_correct": 1
+          },
+          {
+            "text": "nước ta đã tự túc được hoàn toàn các loại máy móc.",
+            "is_correct": 0
+          },
+          {
+            "text": "sự suy giảm của nhu cầu tiêu dùng trong nước.",
+            "is_correct": 0
+          },
+          {
+            "text": "việc ngừng giao thương với các nước láng giềng.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 12
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 14,
+        "question": "Việc phát triển các ngành dịch vụ ở vùng Đông Nam Bộ hiện nay nhằm mục đích chủ yếu là",
+        "answers": [
+          {
+            "text": "thúc đẩy tăng trưởng kinh tế và hiện đại hóa.",
+            "is_correct": 1
+          },
+          {
+            "text": "hạn chế sự giao lưu kinh tế với các nước bạn.",
+            "is_correct": 0
+          },
+          {
+            "text": "phát triển các ngành nông nghiệp cổ truyền.",
+            "is_correct": 0
+          },
+          {
+            "text": "giảm bớt quy mô dân số của các đô thị lớn.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 13
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 15,
+        "question": "Cho bảng số liệu:<br>Cơ cấu GDP phân theo ngành kinh tế nước ta giai đoạn 2010 - 2022<table border='1' style='border-collapse:collapse; margin:10px auto;'><tr><td>Ngành kinh tế</td><td>2010</td><td>2015</td><td>2020</td><td>2022</td></tr><tr><td>Nông nghiệp, lâm nghiệp và thủy sản</td><td>18,9</td><td>17,0</td><td>14,8</td><td>11,9</td></tr><tr><td>Công nghiệp và xây dựng</td><td>38,2</td><td>33,9</td><td>33,7</td><td>38,3</td></tr><tr><td>Dịch vụ</td><td>42,9</td><td>49,1</td><td>51,5</td><td>49,8</td></tr><tr><td>Tổng số</td><td>100,0</td><td>100,0</td><td>100,0</td><td>100,0</td></tr></table><br>(Nguồn: Niên giám thống kê Việt Nam năm 2022)<br>Căn cứ bảng số liệu trên, để thể hiện sự chuyển dịch cơ cấu GDP phân theo ngành kinh tế của nước ta trong giai đoạn 2010 - 2022 thì loại biểu đồ nào sau đây là thích hợp nhất?",
+        "answers": [
+          {
+            "text": "Biểu đồ cột.",
+            "is_correct": 0
+          },
+          {
+            "text": "Biểu đồ đường.",
+            "is_correct": 0
+          },
+          {
+            "text": "Biểu đồ miền.",
+            "is_correct": 1
+          },
+          {
+            "text": "Biểu đồ kết hợp.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 14
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 16,
+        "question": "Sông ngòi ở miền Trung nước ta thường ngắn và dốc chủ yếu do tác động phối hợp của",
+        "answers": [
+          {
+            "text": "lãnh thổ hẹp ngang và địa hình núi lan ra sát biển.",
+            "is_correct": 1
+          },
+          {
+            "text": "lượng mưa quá lớn và lớp phủ thực vật rất mỏng.",
+            "is_correct": 0
+          },
+          {
+            "text": "hướng núi vòng cung và sự xâm thực của nước biển.",
+            "is_correct": 0
+          },
+          {
+            "text": "hệ thống đê điều và hoạt động của gió mùa Tây Nam.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 15
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 17,
+        "question": "Giải pháp quan trọng nhất để ứng phó với xâm nhập mặn ở Đồng bằng sông Cửu Long hiện nay là",
+        "answers": [
+          {
+            "text": "thay đổi cơ cấu sản xuất phù hợp với các điều kiện tự nhiên.",
+            "is_correct": 1
+          },
+          {
+            "text": "xây dựng các hồ trữ nước ngọt quy mô lớn và hệ thống thủy lợi.",
+            "is_correct": 0
+          },
+          {
+            "text": "đẩy mạnh việc thâm canh, tăng vụ lúa ở các vùng bị hạn mặn.",
+            "is_correct": 0
+          },
+          {
+            "text": "tăng cường khai thác nguồn nước ngầm để phục vụ tưới tiêu.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 16
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 18,
+        "question": "Việc phát triển cơ sở hạ tầng giao thông ở khu vực ven biển miền Trung hiện nay nhằm mục đích chủ yếu là",
+        "answers": [
+          {
+            "text": "tạo thế mở cửa cho kinh tế của vùng và thu hút đầu tư.",
+            "is_correct": 1
+          },
+          {
+            "text": "hình thành mạng lưới đô thị dọc ven biển và giảm nghèo.",
+            "is_correct": 0
+          },
+          {
+            "text": "thúc đẩy sự phát triển của ngành khai thác khoáng sản.",
+            "is_correct": 0
+          },
+          {
+            "text": "giải quyết tình trạng ách tắc giao thông trong mùa mưa.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 17
+      }
+    ]
+  ],
+  "type2": [
+    [
+      {
+        "type": "type2",
+        "q_num": 19,
+        "question": "Cho thông tin sau:<br>\tViệt Nam nằm hoàn toàn trong vùng nội chí tuyến bán cầu Bắc, nơi có sự gặp gỡ của các luồng gió mùa và các khối khí ẩm từ biển vào, tạo nên đặc điểm nhiệt đới ẩm gió mùa rõ nét. Sự phân hóa địa hình từ đồi núi đến đồng bằng ven biển tạo nên sự khác biệt về chế độ nhiệt và mưa giữa các khu vực. Trong bối cảnh biến đổi khí hậu, tính thất thường của thời tiết đang gây ra những thách thức lớn đối với quy hoạch hạ tầng và phát triển kinh tế bền vững.",
+        "options": [
+          {
+            "text": "Đặc điểm nhiệt đới của nước ta được quy định bởi vị trí nằm hoàn toàn trong vùng nội chí tuyến.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Sự phân hóa khí hậu giữa các khu vực ở nước ta là hệ quả của tác động phối hợp giữa địa hình và các khối khí.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Biến đổi khí hậu chỉ gây ảnh hưởng tiêu cực đến sản xuất nông nghiệp mà không tác động đến quy hoạch hạ tầng.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Để đạt được mục tiêu phát triển bền vững, việc tích hợp các kịch bản biến đổi khí hậu vào quy hoạch đô thị và hạ tầng giao thông là yêu cầu cấp thiết và có tính chiến lược lâu dài.",
+            "correct_answer": "Đ"
+          }
+        ],
+        "solution": "",
+        "original_index": 18
+      }
+    ],
+    [
+      {
+        "type": "type2",
+        "q_num": 20,
+        "question": "Cho thông tin sau:<br>\tNgành công nghiệp Việt Nam đang có bước chuyển mình quan trọng, ưu tiên phát triển các ngành công nghệ cao, công nghiệp xanh và năng lượng tái tạo. Việc thu hút vốn đầu tư nước ngoài (FDI) vào các khu công nghiệp, khu chế xuất đã tạo động lực cho xuất khẩu hàng hóa và giải quyết việc làm. Tuy nhiên, vấn đề ô nhiễm môi trường và sự phụ thuộc vào nguồn nguyên liệu nhập khẩu vẫn là những nút thắt cần tháo gỡ để nâng cao giá trị gia tăng.",
+        "options": [
+          {
+            "text": "Thu hút đầu tư nước ngoài là một trong những động lực quan trọng thúc đẩy sự phát triển của công nghiệp nước ta.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Việc tập trung vào công nghiệp xanh và năng lượng tái tạo nhằm mục đích duy nhất là giảm chi phí sản xuất cho các doanh nghiệp.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Phát triển các khu công nghiệp, khu chế xuất góp phần quan trọng vào việc mở rộng thị trường xuất khẩu và dịch chuyển cơ cấu lao động.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Để nâng cao giá trị gia tăng, việc mở rộng quy mô các ngành sử dụng nhiều lao động quan trọng hơn việc đầu tư vào phát triển công nghiệp hỗ trợ.",
+            "correct_answer": "S"
+          }
+        ],
+        "solution": "",
+        "original_index": 19
+      }
+    ],
+    [
+      {
+        "type": "type2",
+        "q_num": 21,
+        "question": "Cho thông tin sau:<br>\tPhát triển vùng hiện nay không chỉ dựa trên thế mạnh tự nhiên mà còn chú trọng vào liên kết vùng để tạo không gian kinh tế thống nhất. Tại các vùng kinh tế, việc phát triển các hành lang kinh tế gắn với cảng biển và cửa khẩu đã mở ra cơ hội giao thương quốc tế rộng mở. Bên cạnh đó, việc bảo vệ an ninh sinh thái và chủ quyền biển đảo là nhiệm vụ không thể tách rời trong quá trình phát triển kinh tế vùng ven biển.",
+        "options": [
+          {
+            "text": "Liên kết vùng giúp phát huy lợi thế so sánh và tạo ra sự đồng bộ trong phát triển kinh tế giữa các địa phương.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Sự hình thành các hành lang kinh tế chỉ có ý nghĩa đối với các tỉnh, thành phố có cửa khẩu biên giới đất liền.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Phát triển kinh tế vùng ven biển gắn liền với cảng biển là chiến lược trọng tâm để tăng cường hội nhập kinh tế quốc tế.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Trong bối cảnh mới, an ninh sinh thái phải được coi là \"ngưỡng giới hạn\" không thể đánh đổi trong các dự án phát triển kinh tế vùng ven biển nhằm bảo đảm sự tồn tại bền vững của quốc gia.",
+            "correct_answer": "S"
+          }
+        ],
+        "solution": "",
+        "original_index": 20
+      }
+    ],
+    [
+      {
+        "type": "type2",
+        "q_num": 22,
+        "question": "Cho bảng số liệu:<br>Tổng số dân và tỉ lệ dân thành thị nước ta giai đoạn 2010 - 2022<table border='1' style='border-collapse:collapse; margin:10px auto;'><tr><td>Năm</td><td>Tổng số dân (triệu người)</td><td>Tỉ lệ dân thành thị (%)</td></tr><tr><td>2010</td><td>87,1</td><td>30,5</td></tr><tr><td>2015</td><td>92,2</td><td>33,9</td></tr><tr><td>2020</td><td>97,6</td><td>36,8</td></tr><tr><td>2022</td><td>99,5</td><td>37,1</td></tr></table><br>(Nguồn: Niên giám thống kê Việt Nam năm 2022)",
+        "options": [
+          {
+            "text": "Tổng số dân của nước ta tăng liên tục trong giai đoạn 2010 - 2022.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Tỉ lệ dân thành thị tăng phản ánh quá trình đô thị hóa ở nước ta đang diễn ra theo hướng tích cực.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Số dân nông thôn của nước ta trong giai đoạn trên có xu hướng tăng nhanh hơn số dân thành thị.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Tốc độ tăng trưởng số dân thành thị nhanh hơn tốc độ tăng trưởng tổng số dân là minh chứng cho sự chuyển dịch mạnh mẽ của cơ cấu kinh tế theo hướng công nghiệp hóa.",
+            "correct_answer": "Đ"
+          }
+        ],
+        "solution": "",
+        "original_index": 21
+      }
+    ]
+  ],
+  "type3": [
+    [
+      {
+        "type": "type3",
+        "q_num": 23,
+        "question": "Năm 2024, nước ta có tổng số dân là 101 343,8 nghìn người, diện tích là 331 338,3 km2. Hãy cho biết mật độ dân số của nước ta năm 2024 là bao nhiêu người/km2. (Làm tròn kết quả đến hàng đơn vị)",
+        "correct_answer": "306",
+        "solution": "",
+        "original_index": 22
+      }
+    ],
+    [
+      {
+        "type": "type3",
+        "q_num": 24,
+        "question": "Cho bảng số liệu:<br>Nhiệt độ không khí trung bình các tháng năm 2024 tại trạm khí tượng Đà Lạt.<table border='1' style='border-collapse:collapse; margin:10px auto;'><tr><td>Tháng</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr><tr><td>°C</td><td>17,2</td><td>18,3</td><td>19,6</td><td>20,9</td><td>21,0</td><td>20,4</td><td>19,2</td><td>19,9</td><td>19,5</td><td>19,1</td><td>18,7</td><td>17,4</td></tr></table><br>(Nguồn: Niên giám thống kê Việt Nam năm 2024)<br>\tCăn cứ bảng số liệu trên, hãy cho biết biên độ nhiệt độ trung bình năm 2024 tại trạm khí tượng Đà Lạt là bao nhiêu độ °C.",
+        "correct_answer": "3,8",
+        "solution": "",
+        "original_index": 23
+      }
+    ],
+    [
+      {
+        "type": "type3",
+        "q_num": 25,
+        "question": "Năm 2023, nước ta có trị giá xuất khẩu hàng hóa đạt 354,7 tỷ USD, trị giá nhập khẩu hàng hóa đạt 326,6 tỷ USD. Hãy cho biết cán cân xuất nhập khẩu của nước ta năm 2023 là bao nhiêu tỷ USD. (Làm tròn kết quả đến hàng đơn vị)",
+        "correct_answer": "28",
+        "solution": "",
+        "original_index": 24
+      }
+    ],
+    [
+      {
+        "type": "type3",
+        "q_num": 26,
+        "question": "Năm 2024, nước ta có diện tích cây công nghiệp lâu năm là 2 172,0 nghìn ha, cây công nghiệp hằng năm là 420,1 nghìn ha. Hãy cho biết tỉ trọng diện tích cây công nghiệp lâu năm trong tổng diện tích cây công nghiệp của nước ta năm 2024 là bao nhiêu phần trăm. (Làm tròn kết quả đến một chữ số thập phân)",
+        "correct_answer": "83,8",
+        "solution": "",
+        "original_index": 25
+      }
+    ],
+    [
+      {
+        "type": "type3",
+        "q_num": 27,
+        "question": "Núi Ngọc Linh ở nước ta cao 2 598 m. Tại chân núi (giả định ở độ cao 0 m) thuộc sườn đón gió, nhiệt độ đo được là 30,0°C. Biết rằng theo quy luật đai cao, cứ lên cao 100 m thì nhiệt độ giảm 0,6°C. Hãy cho biết nhiệt độ tại đỉnh núi là bao nhiêu °C. (Làm tròn kết quả đến một chữ số thập phân)",
+        "correct_answer": "14,4",
+        "solution": "",
+        "original_index": 26
+      }
+    ],
+    [
+      {
+        "type": "type3",
+        "q_num": 28,
+        "question": "Tổng diện tích rừng của nước ta năm 2010 và năm 2024 lần lượt là 13,4 triệu ha và 14,8 triệu ha. Hãy cho biết tốc độ tăng trưởng diện tích rừng nước ta năm 2024 so với năm 2010 tăng thêm bao nhiêu phần trăm. (Làm tròn kết quả đến một chữ số thập phân)",
+        "correct_answer": "10,4",
+        "solution": "",
+        "original_index": 27
+      }
+    ]
+  ],
+  "general_content": []
+}

@@ -1,0 +1,792 @@
+{
+  "quiz_info": {
+    "title": "MIXEASY ONLINE",
+    "tenBaiKiemTra": "ĐỀ 04-GDKTPL",
+    "time_limit": 50,
+    "quiz_time_leftmode": "cotinh",
+    "quiz_password": "",
+    "mode_xuatketqua": "GV_TL",
+    "mode_xuatcsv": false,
+    "allowViewAll": true,
+    "mode_localstorage": "no_save",
+    "script_url": "https://script.google.com/macros/s/AKfycbwfNnM0fkLEBuPHtk1CLNOXI9MfNAgZIU4O6Eurhd_tBCwIH1vjsnJkpEHbACe2_wYx/exec",
+    "sheet_name": "GDKTPL",
+    "shuffle_options": {
+      "shuffle_q_type1": false,
+      "shuffle_a_type1": false,
+      "shuffle_q_type2": false,
+      "shuffle_a_type2": false,
+      "shuffle_q_type3": false
+    },
+    "scoring": {
+      "type1": 0.25,
+      "type2_1": 0.1,
+      "type2_2": 0.25,
+      "type2_3": 0.5,
+      "type2_4": 1.0,
+      "type3": 0.5
+    }
+  },
+  "type1": [
+    [
+      {
+        "type": "type1",
+        "q_num": 1,
+        "question": "Hoạt động kinh tế nào dưới đây thúc đẩy việc mở rộng các hoạt động kinh tế khác của con người, làm phong phú đời sống vật chất tinh thần của xã hội?",
+        "answers": [
+          {
+            "text": "Hoạt động sản xuất.",
+            "is_correct": 1
+          },
+          {
+            "text": "Hoạt động đầu cơ.",
+            "is_correct": 0
+          },
+          {
+            "text": "Hoạt động trao đổi.",
+            "is_correct": 0
+          },
+          {
+            "text": "Hoạt động phân phối.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 0
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 2,
+        "question": "Là hình thức tổ chức kinh tế thể hiện sự hợp tác, tương trợ lẫn nhau trong quá trình sản xuất kinh doanh vừa đáp ứng nhu cầu chung của các thành viên, trên cơ sở tự chủ, tự chịu trách nhiệm là đặc điểm cơ bản của mô hình sản xuất kinh doanh nào dưới đây?",
+        "answers": [
+          {
+            "text": "Hộ sản xuất kinh doanh.",
+            "is_correct": 0
+          },
+          {
+            "text": "Doanh nghiệp nhà nước.",
+            "is_correct": 0
+          },
+          {
+            "text": "Doanh nghiệp.",
+            "is_correct": 0
+          },
+          {
+            "text": "Hợp tác xã",
+            "is_correct": 1
+          }
+        ],
+        "solution": "",
+        "original_index": 1
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 3,
+        "question": "Hình thức thực hiện pháp luật nào trong đó cá nhân, tổ chức được thực hiện các quyền của mình, làm những gì mà pháp luật cho phép làm?",
+        "answers": [
+          {
+            "text": "Thi hành pháp luật.",
+            "is_correct": 0
+          },
+          {
+            "text": "Sử dụng pháp luật.",
+            "is_correct": 1
+          },
+          {
+            "text": "Tuân thủ pháp luật.",
+            "is_correct": 0
+          },
+          {
+            "text": "Áp dụng pháp luật.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 2
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 4,
+        "question": "Theo quy định của Hiến pháp 2013, Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ bao gồm đất liền, hải đảo, vùng biển và",
+        "answers": [
+          {
+            "text": "khu tự trị.",
+            "is_correct": 0
+          },
+          {
+            "text": "khu xâm lược.",
+            "is_correct": 0
+          },
+          {
+            "text": "vùng trời.",
+            "is_correct": 1
+          },
+          {
+            "text": "ngoài rìa biên giới.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 3
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 5,
+        "question": "Mức độ tăng của giá cả ở một con số hằng năm ( 0% - dưới 10%) phản ánh nền kinh tế đang ở mức độ lạm phát",
+        "answers": [
+          {
+            "text": "vừa phải.",
+            "is_correct": 1
+          },
+          {
+            "text": "phi mã.",
+            "is_correct": 0
+          },
+          {
+            "text": "siêu lạm phát.",
+            "is_correct": 0
+          },
+          {
+            "text": "mất kiểm soát.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 4
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 6,
+        "question": "Người lao động và người sử dụng lao động gặp gỡ, trao đổi mua bán hàng hóa việc làm ở nơi nào dưới đây?",
+        "answers": [
+          {
+            "text": "Thị trường lao động.",
+            "is_correct": 0
+          },
+          {
+            "text": "Thị trường việc làm.",
+            "is_correct": 1
+          },
+          {
+            "text": "Thị trường tài chính.",
+            "is_correct": 0
+          },
+          {
+            "text": "Thị trường tiêu dùng.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 5
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 7,
+        "question": "Nhờ có kiến thức về ngành nghề kinh doanh, chủ thể kinh doanh đã tổ chức tốt các hoạt động sản xuất và phân phối, sản phẩm làm ra thỏa mãn nhu cầu thị hiếu của người tiêu dùng là biểu hiện của năng lực nào sau đây của chủ thể kinh doanh?",
+        "answers": [
+          {
+            "text": "Năng lực chuyên môn, nghiệp vụ.",
+            "is_correct": 1
+          },
+          {
+            "text": "Năng lực giải quyết mối quan hệ.",
+            "is_correct": 0
+          },
+          {
+            "text": "Năng lực tìm kiếm thị trường.",
+            "is_correct": 0
+          },
+          {
+            "text": "Năng lực phân phối sản phẩm.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 6
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 8,
+        "question": "Ở nước ta hiện nay, nam nữa đều có quyền bình đẳng trong tham gia quản lý nhà nước và xã hội là thể hiện quyền bình đẳng giới trong lĩnh vực",
+        "answers": [
+          {
+            "text": "kinh tế.",
+            "is_correct": 0
+          },
+          {
+            "text": "chính trị.",
+            "is_correct": 1
+          },
+          {
+            "text": "lao động.",
+            "is_correct": 0
+          },
+          {
+            "text": "kinh doanh.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 7
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 9,
+        "question": "Theo quy định của pháp luật, công dân có quyền tự ứng cử hoặc giới thiệu người khác ứng cử vào các cơ quan nhà nước là đã thực hiện quyền dân chủ nào dưới đây?",
+        "answers": [
+          {
+            "text": "Quyền ứng cử.",
+            "is_correct": 1
+          },
+          {
+            "text": "Quyền bầu cử.",
+            "is_correct": 0
+          },
+          {
+            "text": "Quyền khiếu nại.",
+            "is_correct": 0
+          },
+          {
+            "text": "Quyền tố cáo.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 8
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 10,
+        "question": "Khi nền kinh tế có sự tăng lên về quy mô sản lượng trong một thời kỳ nhất định, điều đó chứng tỏ nền kinh tế đó đang",
+        "answers": [
+          {
+            "text": "lạm phát.",
+            "is_correct": 0
+          },
+          {
+            "text": "thất nghiệp.",
+            "is_correct": 0
+          },
+          {
+            "text": "tăng trưởng.",
+            "is_correct": 1
+          },
+          {
+            "text": "suy thoái.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 9
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 11,
+        "question": "Quá trình liên kết giữa các quốc gia, vùng lãnh thổ với nhau thông qua việc tham gia vào các tổ chức kinh tế toàn cầu là một trong những hình thức hội nhập kinh tế quốc tế ở cấp độ",
+        "answers": [
+          {
+            "text": "khu vực.",
+            "is_correct": 0
+          },
+          {
+            "text": "song phương.",
+            "is_correct": 0
+          },
+          {
+            "text": "toàn cầu.",
+            "is_correct": 1
+          },
+          {
+            "text": "toàn diện.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 10
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 12,
+        "question": "Doanh nghiệp nỗ lực vượt qua khó khăn để hoạt động có hiệu quả, không chỉ đem lại lợi nhuận mà còn góp phần tạo ra nhiều việc làm với mức thu nhập ổn định cho người lao động là đã góp phần thực hiện tốt trách nhiệm xã hội nào dưới đây của doanh nghiệp?",
+        "answers": [
+          {
+            "text": "Trách nhiệm pháp lý.",
+            "is_correct": 0
+          },
+          {
+            "text": "Trách nhiệm kinh tế.",
+            "is_correct": 1
+          },
+          {
+            "text": "Trách nhiệm tiêu dùng.",
+            "is_correct": 0
+          },
+          {
+            "text": "Trách nhiệm nhân văn.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 11
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 13,
+        "question": "Theo quy định của pháp luật, khi tiến hành kinh doanh, mọi doanh nghiệp đều phải thực hiện nghĩa vụ",
+        "answers": [
+          {
+            "text": "sử dụng nguyên liệu hữu cơ.",
+            "is_correct": 0
+          },
+          {
+            "text": "đầu tư kinh phí quảng cáo.",
+            "is_correct": 0
+          },
+          {
+            "text": "bảo vệ quyền lợi người tiêu dùng.",
+            "is_correct": 1
+          },
+          {
+            "text": "tổ chức hội nghị trực tuyến định kì.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 12
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 14,
+        "question": "Theo quy định của pháp luật, khi mục đích của hôn nhân không đạt được, công dân có quyền yêu cầu cơ các cơ quan nhà nước có thẩm quyền",
+        "answers": [
+          {
+            "text": "đề bạt bổ nhiệm.",
+            "is_correct": 0
+          },
+          {
+            "text": "hỗ trợ kinh phí.",
+            "is_correct": 0
+          },
+          {
+            "text": "giải quyết việc làm.",
+            "is_correct": 0
+          },
+          {
+            "text": "giải quyết ly hôn.",
+            "is_correct": 1
+          }
+        ],
+        "solution": "",
+        "original_index": 13
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 15,
+        "question": "Theo quy định của pháp luật, đối với những di sản văn hóa được pháp luật công nhận mọi công dân đều được",
+        "answers": [
+          {
+            "text": "tiếp cận.",
+            "is_correct": 1
+          },
+          {
+            "text": "hủy hoại.",
+            "is_correct": 0
+          },
+          {
+            "text": "chiếm đoạt.",
+            "is_correct": 0
+          },
+          {
+            "text": "mua bán.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 14
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 16,
+        "question": "Trong hoạt động của Tổ chức Thương mại Thế giới, nguyên tắc nào dưới đây gắn liền với chế độ đối xử tối huệ quốc?",
+        "answers": [
+          {
+            "text": "Cạnh tranh minh bạch.",
+            "is_correct": 0
+          },
+          {
+            "text": "Không phân biệt đối xử.",
+            "is_correct": 1
+          },
+          {
+            "text": "Tự do hoá thương mại.",
+            "is_correct": 0
+          },
+          {
+            "text": "Cạnh tranh công bằng.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 15
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 17,
+        "question": "Thấy cửa hàng bán đồ ăn của mình lượng khách lúc nào cũng ít hơn cửa hàng bán đồ ăn góc phố đối diện do anh D làm chủ, bà H đã thuê anh M viết bài đăng lên mạng xã hội vu khống anh D thường xuyên sử dụng chất cấm để chế biến thực phẩm bán cho khách hàng khiến uy tín của anh D bị suy giảm nghiêm trọng, hành vi của bà H là biểu hiện của hành vi",
+        "answers": [
+          {
+            "text": "tiêu dùng thông minh.",
+            "is_correct": 0
+          },
+          {
+            "text": "kinh doanh phi lợi nhuận.",
+            "is_correct": 0
+          },
+          {
+            "text": "cạnh tranh lành mạnh.",
+            "is_correct": 0
+          },
+          {
+            "text": "cạnh tranh không lành mạnh.",
+            "is_correct": 1
+          }
+        ],
+        "solution": "",
+        "original_index": 16
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 18,
+        "question": "Do kinh tế thế giới bị suy thoái đã làm cho các doanh nghiệp trong nước, nhất là các doanh nghiệp nhỏ gặp nhiều khó khăn. Nhiều doanh nghiệp phải đóng cửa, tạm ngừng sản xuất dẫn đến người lao động bị mất việc làm, thất nghiệp gia tăng, nội dung này phản ánh loại hình thất nghiệp nào dưới đây?",
+        "answers": [
+          {
+            "text": "Thất nghiệp tạm thời.",
+            "is_correct": 0
+          },
+          {
+            "text": "Thất nghiệp cơ cấu.",
+            "is_correct": 0
+          },
+          {
+            "text": "Thất nghiệp chu kỳ.",
+            "is_correct": 1
+          },
+          {
+            "text": "Thất nghiệp tự nguyện.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 17
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 19,
+        "question": "Hành vi đánh người, làm tổn hại cho sức khỏe của người khác là xâm phạm đến quyền tự do cơ bản nào của công dân?",
+        "answers": [
+          {
+            "text": "Bất khả xâm phạm về thân thể.",
+            "is_correct": 0
+          },
+          {
+            "text": "Bảo hộ về danh dự, nhân phẩm.",
+            "is_correct": 0
+          },
+          {
+            "text": "Tự do về thân thể của công dân.",
+            "is_correct": 0
+          },
+          {
+            "text": "Bảo hộ về tính mạng, sức khỏe.",
+            "is_correct": 1
+          }
+        ],
+        "solution": "",
+        "original_index": 18
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 20,
+        "question": "Bạn H tham gia loại hình Bảo hiểm toàn diện học sinh với công ty Bảo việt, một lần trên đường đi học về, bạn không may va chạm với xe máy đi ngược dẫn đến chấn thương phải nhập viện điều trị. Trong thời gian nằm viện, bạn H được cơ quan bảo hiểm xã hội thanh toán tiền nằm viện theo quy định, công ty Bảo việt đã thanh toán chế độ bảo hiểm theo hợp đồng mà bạn H đã đóng phí. Bạn H đã tham gia những loại hình bảo hiểm nào dưới đây?",
+        "answers": [
+          {
+            "text": "Bảo hiểm xã hội và y tế.",
+            "is_correct": 0
+          },
+          {
+            "text": "Bảo hiểm thất nghiệp và y tế.",
+            "is_correct": 0
+          },
+          {
+            "text": "Bảo hiểm thương mại và y tế.",
+            "is_correct": 1
+          },
+          {
+            "text": "Bảo hiểm thương mại và xã hội.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 19
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 21,
+        "question": "Đọc thông tin và trả lời các câu hỏi 21, 22.<br>Khu vực anh D và chị H sinh sống có nhiều nhà máy đi vào hoạt động. Nhận thấy nhu cầu thuê phòng trọ ngày càng tăng của công nhân, anh D và chị H đã quyết định sử dụng toàn bộ tiền tiết kiệm của hai vợ chồng để xây dựng phòng trọ cho thuê giá rẻ. Số tiền có được từ việc kinh doanh phòng trọ anh chị đã dùng một phần vào việc chi tiêu cho gia đình còn lại tái đầu tư tiếp tục mở rộng số lượng các phòng trọ mới nhằm đáp ứng nhu cầu của công nhân quá đó giúp gia đình có thu nhập ổn định.<br>Nội dung nào trong thông tin trên thể hiện anh D và chị H đã biết phân tích các điều kiện thực hiện kế hoạch kinh doanh?",
+        "answers": [
+          {
+            "text": "Xây dựng phòng trọ cho thuê.",
+            "is_correct": 0
+          },
+          {
+            "text": "Đánh giá về nhu cầu phòng trọ tăng.",
+            "is_correct": 1
+          },
+          {
+            "text": "Phân chia thu nhập từ kinh doanh.",
+            "is_correct": 0
+          },
+          {
+            "text": "Mở rộng quy mô kinh doanh phòng trọ.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 20
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 22,
+        "question": "Đọc thông tin và trả lời các câu hỏi 21, 22.<br>Khu vực anh D và chị H sinh sống có nhiều nhà máy đi vào hoạt động. Nhận thấy nhu cầu thuê phòng trọ ngày càng tăng của công nhân, anh D và chị H đã quyết định sử dụng toàn bộ tiền tiết kiệm của hai vợ chồng để xây dựng phòng trọ cho thuê giá rẻ. Số tiền có được từ việc kinh doanh phòng trọ anh chị đã dùng một phần vào việc chi tiêu cho gia đình còn lại tái đầu tư tiếp tục mở rộng số lượng các phòng trọ mới nhằm đáp ứng nhu cầu của công nhân quá đó giúp gia đình có thu nhập ổn định.<br>Nội dung nào dưới đây là căn cứ để anh D và chị H xây dựng kế hoạch quản lý thu chi trong gia đình một cách phù hợp?",
+        "answers": [
+          {
+            "text": "Sống trên địa bàn có tiềm năng kinh doanh.",
+            "is_correct": 0
+          },
+          {
+            "text": "Nguồn thu nhập từ kinh doanh phòng trọ.",
+            "is_correct": 1
+          },
+          {
+            "text": "Ý tưởng kinh doanh phòng trọ cho thuê.",
+            "is_correct": 0
+          },
+          {
+            "text": "Thu nhập ổn định từ lương của anh D.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 21
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 23,
+        "question": "Đọc thông tin và trả lời các câu hỏi 23, 24.<br>Bà H là chủ hộ kinh doanh, đăng kí và mở cửa hàng kinh doanh nước giải khát và bia. Khi mở cửa hàng, bà H lại bán thêm rượu và thuốc lá nhưng không đăng kí bổ sung mặt hàng kinh doanh này với cơ quan đăng kí kinh doanh. Khi kê khai thuế, bà H không kê khai rượu và thuốc lá vì cho rằng những hàng hoá này không có trong hồ sơ đăng kí kinh doanh.<br>Trong thông tin trên bà H đã vi phạm những nghĩa vụ nào dưới đây khi tiến hành hoạt động kinh doanh?",
+        "answers": [
+          {
+            "text": "Kinh doanh không đúng ngàng nghề đăng ký và vi phạm quy định về nộp thuế.",
+            "is_correct": 1
+          },
+          {
+            "text": "Kinh doanh đồ uống có cồn và nghĩa vụ về nộp thuế khi kinh doanh.",
+            "is_correct": 0
+          },
+          {
+            "text": "Kinh doanh không đúng ngành nghề và kinh doanh đồ uống có cồn.",
+            "is_correct": 0
+          },
+          {
+            "text": "Không đăng ký kinh doanh và không kê khai thuế với cơ quan chức năng.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 22
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 24,
+        "question": "Đọc thông tin và trả lời các câu hỏi 23, 24.<br>Bà H là chủ hộ kinh doanh, đăng kí và mở cửa hàng kinh doanh nước giải khát và bia. Khi mở cửa hàng, bà H lại bán thêm rượu và thuốc lá nhưng không đăng kí bổ sung mặt hàng kinh doanh này với cơ quan đăng kí kinh doanh. Khi kê khai thuế, bà H không kê khai rượu và thuốc lá vì cho rằng những hàng hoá này không có trong hồ sơ đăng kí kinh doanh.<br>Việc làm của bà H trong thông tin trên là vi phạm trách nhiệm nào dưới đây của chủ doanh nghiệp khi kinh doanh?",
+        "answers": [
+          {
+            "text": "Pháp lý.",
+            "is_correct": 1
+          },
+          {
+            "text": "Kinh tế.",
+            "is_correct": 0
+          },
+          {
+            "text": "Đạo đức.",
+            "is_correct": 0
+          },
+          {
+            "text": "Nhân văn.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 23
+      }
+    ]
+  ],
+  "type2": [
+    [
+      {
+        "type": "type2",
+        "q_num": 25,
+        "question": "Trong năm 2023, tỉnh M đã giải quyết việc làm mới cho hơn 8.000 lao động, trong 5 năm  đã tạo việc làm cho 41.394 lao động, đạt 103% so với kế hoạch. Chương trình mục tiêu giảm nghèo của tỉnh triển khai có hiệu quả các chính sách, chương trình hỗ trợ người nghèo, hộ nghèo, vùng nghèo. Đa số hộ nghèo được nâng cao nhận thức, cố gắng tìm tòi học tập kinh nghiệm trong sản xuất, tự tạo việc làm để vươn lên thoát nghèo, cải thiện điều kiện sống và sinh hoạt. Kết quả giảm nghèo của toàn tỉnh trong 5 năm đã vượt mục tiêu đề ra, giảm từ 38.085 hộ nghèo, chiếm tỉ lệ 28,4% xuống còn 18.048 hộ nghèo. Qua đó đã góp phần giúp cho tốc độ tăng trưởng kinh tế của tỉnh ngày càng vững chắc, đời sống nhân dân được cải thiện.",
+        "options": [
+          {
+            "text": "Chính sách an sinh xã hội của tỉnh M tập trung vào vấn đề giải quyết việc làm và bảo hiểm là phù hợp.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Nhờ sự hỗ trợ của tỉnh mà những hộ nghèo ở tỉnh M đã chủ động tự tạo việc làm là thể hiện trách nhiệm của công dân trong việc thực hiện chính sách an sinh xã hội.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Người dân tỉnh M không có nghĩa vụ phải thực hiện các chính sách an sinh xã hội của tỉnh triển khai vì họ đã có thể tự tạo được việc làm cho bản thân.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Giải pháp mà tỉnh M đang thực hiện là phù hợp với những nội dung cơ bản về phát triển bền vững.",
+            "correct_answer": "Đ"
+          }
+        ],
+        "solution": "",
+        "original_index": 24
+      }
+    ],
+    [
+      {
+        "type": "type2",
+        "q_num": 26,
+        "question": "Anh D và chị H đều làm công nhân trong nhà máy X đã thỏa thuận với bà M về việc thuê một phòng trọ để ở. Thời gian đầu do hai vợ chồng đều đi làm nên thu nhập của hai vợ chồng đủ để trang trải cuộc sống. Gần đây do khủng hoảng kinh tế, anh D bị thất nghiệp phải ở nhà khiến chi tiêu sinh hoạt của hai vợ chồng và các con bị ảnh hưởng. Để giúp đỡ vợ, bên cạnh việc may mượn bạn bè được 20 triệu đồng làm vốn, anh D cải tạo lại một phần diện tích phòng trọ làm nơi sửa chữa đồ gia dụng cho công nhân ở khu vực. Công việc bước đầu mang lại thu nhập hỗ trợ gia đình và trả tiền đã vay cho bạn bè. Thấy anh D sử dụng phòng trọ của mình để kinh doanh, bà M đã yêu cầu anh D thanh toán thêm tiền phòng nhưng không được anh chấp nhận, bức xúc bà M đã ngăn cản không cho khách hàng của anh D đến sửa chữa khiến hai người mâu thuẫn.",
+        "options": [
+          {
+            "text": "Anh D có quyền cải tạo lại căn phòng để làm nơi kinh doanh vì anh đã hợp đồng thuê căn phòng này với bà M.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Cả anh D và bà M đều chưa thực hiện đúng nghĩa vụ tôn trọng tài sản của người khác.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Gia đình anh D và chị H cần điều chỉnh kế hoạch chi tiêu cắt giảm một số khoản chi không cần thiết là phù hợp với tình hình tài chính hiện tại.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Việc bà M ngăn cản khách hàng của anh D là chưa tôn trọng quyền tự do kinh doanh của người khác và bà M sẽ phải chịu trách nhiệm dân sự.",
+            "correct_answer": "Đ"
+          }
+        ],
+        "solution": "",
+        "original_index": 25
+      }
+    ],
+    [
+      {
+        "type": "type2",
+        "q_num": 27,
+        "question": "Hiệp định thương mại Việt Nam - Hoa Kỳ chính thức có hiệu lực từ năm 2001. Trong quá trình thực hiện hai nước cũng phát sinh một số tranh chấp thương mại. Năm 2003, Ủy ban Thương mại quốc tế Hoa Kỳ đã ra phán quyết khẳng định các doanh doanh nghiệp chế biến cá tra, basa Việt Nam xuất hàng sang Hoa Kỳ bán phá giá, làm cho ngành công nghiệp cá nheo Hoa Kỳ bị ảnh hưởng nặng nề. Trước phán quyết này, Việt Nam đã kiện lên tổ chức WTO, sau nhiều lần xem xét các bằng chứng Việt Nam đưa ra, WTO đã ra phán quyết khẳng định các doanh nghiệp Việt Nam không bán phá giá và Hoa Kỳ cũng đã từng bước dỡ bỏ các hàng rào thuế quan đối với sản phẩm cá tra của Việt Nam.",
+        "options": [
+          {
+            "text": "Hiệp định thương mại Việt Nam – Hoa Kỳ là thể hiện hình thức hợp tác kinh tế quốc tế song phương.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Chỉ có Việt Nam và Hoa Kỳ là chủ thể của pháp luật quốc tế, còn WTO không có vai trò là chủ thể của pháp luật quốc tế.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Việt Nam bị Ủy ban Thương mại Hoa Kỳ áp thuế chống bán phá giá chứng tỏ Việt Nam vi phạm nguyên tắc cạnh tranh công bằng trong quan hệ thương mại quốc tế.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Hoa Kỳ sau khi xem xét các bằng chứng đã nghiêm túc tuân thủ phán quyết của WTO thể hiện nguyên tắc tận tâm, thiện chí trong quan hệ thương mại quốc tế.",
+            "correct_answer": "Đ"
+          }
+        ],
+        "solution": "",
+        "original_index": 26
+      }
+    ],
+    [
+      {
+        "type": "type2",
+        "q_num": 28,
+        "question": "Nhận thấy nhu cầu về sử dụng rau rạch của người dân ngày càng tăng, vợ chồng anh A và chị B quyết định nghỉ việc tại công ty để tiến hành hoạt động kinh doanh rau sạch. Từ số tiền tiết kiệm của hai vợ chồng và thế chấp ngôi nhà đang ở, anh chị đã mở một cửa hàng ngay tại thị trấn. Với phương châm đặt chất lượng lên hàng đầu, luôn cam kết với khách hàng về chất lượng sản phẩm vì vậy chỉ sau 2 năm đi vào hoạt động, cửa hàng của anh chị đã có một lượng khách hàng lớn tin tưởng và thường xuyên sử dụng sản phẩm do cửa hàng cung cấp. Lợi nhuận có được từ việc kinh doanh, ngoài việc trang trải chi phí sinh hoạt cho cả gia đình, anh chị còn tích cực tài trợ cho các hoạt động thiện nguyện giúp đỡ các học sinh có hoàn cảnh khó khăn. Để có nguồn nguyên liệu an toàn và ổn định, anh chị đã hướng dẫn cho bà con nông dân quy trình sản xuất rau sạch và cam kết bao tiêu sản phẩm nhờ đó không chỉ mang lại hiệu quả kinh doanh cho cửa hàng mà còn góp phần giải quyết nhiều việc làm cho lao động nông thôn.",
+        "options": [
+          {
+            "text": "Phương châm đặt chất lượng sản phẩm lên hàng đầu, luôn cam kết với khách hàng về chất lượng sản phẩm là thể hiện việc phân tích các điều kiện kinh doanh.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Cửa hàng kinh doanh của anh A và chị B ngày càng hoạt động hiệu quả có nguyên nhân chủ quan là vợ chồng anh chị luôn thực hiện tốt trách nhiệm kinh doanh.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Việc giúp đỡ các học sinh có hoàn cảnh có khó khăn trong học tập là phù hợp với trách nhiệm pháp lý của mỗi doanh nghiệp.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Đánh giá đúng về yếu tố khách hàng và thị trường là yếu tố giúp anh A và chị B kinh doanh thành công.",
+            "correct_answer": "Đ"
+          }
+        ],
+        "solution": "",
+        "original_index": 27
+      }
+    ]
+  ],
+  "type3": [],
+  "general_content": []
+}

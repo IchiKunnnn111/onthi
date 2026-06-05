@@ -1,0 +1,792 @@
+{
+  "quiz_info": {
+    "title": "MIXEASY ONLINE",
+    "tenBaiKiemTra": "ĐỀ 06-GDKTPL",
+    "time_limit": 50,
+    "quiz_time_leftmode": "cotinh",
+    "quiz_password": "",
+    "mode_xuatketqua": "GV_TL",
+    "mode_xuatcsv": false,
+    "allowViewAll": true,
+    "mode_localstorage": "no_save",
+    "script_url": "https://script.google.com/macros/s/AKfycbwfNnM0fkLEBuPHtk1CLNOXI9MfNAgZIU4O6Eurhd_tBCwIH1vjsnJkpEHbACe2_wYx/exec",
+    "sheet_name": "GDKTPL",
+    "shuffle_options": {
+      "shuffle_q_type1": false,
+      "shuffle_a_type1": false,
+      "shuffle_q_type2": false,
+      "shuffle_a_type2": false,
+      "shuffle_q_type3": false
+    },
+    "scoring": {
+      "type1": 0.25,
+      "type2_1": 0.1,
+      "type2_2": 0.25,
+      "type2_3": 0.5,
+      "type2_4": 1.0,
+      "type3": 0.25
+    }
+  },
+  "type1": [
+    [
+      {
+        "type": "type1",
+        "q_num": 1,
+        "question": "Tốc độ tăng trưởng kinh tế phản ánh",
+        "answers": [
+          {
+            "text": "mức tăng GDP bình quân đầu người của thời kì này so với thời kì trước.",
+            "is_correct": 0
+          },
+          {
+            "text": "mức tăng chỉ số HDI của thời kì này so với thời kì trước.",
+            "is_correct": 0
+          },
+          {
+            "text": "mức tăng GNI bình quân đầu người của thời kì này so với thời kì trước.",
+            "is_correct": 0
+          },
+          {
+            "text": "mức tăng GDP hoặc GNI của thời kì này so với thời kì trước.",
+            "is_correct": 1
+          }
+        ],
+        "solution": "",
+        "original_index": 0
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 2,
+        "question": "Quá trình hoạt động có mục đích làm cho những quy định của pháp luật đi vào cuộc sống, trở thành hành vi hợp pháp của các cá nhân, tổ chức là nội dung của khái niệm",
+        "answers": [
+          {
+            "text": "phổ biến pháp luật.",
+            "is_correct": 0
+          },
+          {
+            "text": "xây dựng pháp luật.",
+            "is_correct": 0
+          },
+          {
+            "text": "ban hành pháp luật.",
+            "is_correct": 0
+          },
+          {
+            "text": "thực hiện pháp luật.",
+            "is_correct": 1
+          }
+        ],
+        "solution": "",
+        "original_index": 1
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 3,
+        "question": "Tổ chức, cá nhân giao kết hợp đồng bảo hiểm với tổ chức bảo hiểm và đóng phí bảo hiểm được gọi là",
+        "answers": [
+          {
+            "text": "bên mua bảo hiểm.",
+            "is_correct": 1
+          },
+          {
+            "text": "người thụ hưởng.",
+            "is_correct": 0
+          },
+          {
+            "text": "người được bảo hiểm.",
+            "is_correct": 0
+          },
+          {
+            "text": "bên thứ ba.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 2
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 4,
+        "question": "Trường hợp. Doanh nghiệp T chuyên sản xuất, kinh doanh những thực phẩm chế biến từ thịt lợn. Gần đây, hoạt động sản xuất của doanh nghiệp gặp khó khăn do giá của các yếu tố đầu vào (con giống, cám,..) tăng khiến chi phí sản xuất và giá bán sản phẩm bị đẩy lên cao. Số lượng các đơn đặt hàng cũng giảm sút do thị trường xuất hiện nhiều nhà cung ứng sản phẩm cùng loại.<br>Trong trường hợp trên, những nhân tố nào đã ảnh hưởng đến lượng cung hàng hóa trên thị trường?",
+        "answers": [
+          {
+            "text": "Số lượng người bán trên thị trường và giá bán của sản phẩm.",
+            "is_correct": 0
+          },
+          {
+            "text": "Giá cả các yếu tố đầu vào và số lượng người tham gia cung ứng.",
+            "is_correct": 1
+          },
+          {
+            "text": "Chính sách của nhà nước và sự kì vọng của chủ thể sản xuất.",
+            "is_correct": 0
+          },
+          {
+            "text": "Trình độ công nghệ và dự đoán của người bán về thị trường.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 3
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 5,
+        "question": "Hoạt động đóng vai trò cơ bản nhất, quyết định các hoạt động khác của đời sống xã hội là hoạt động",
+        "answers": [
+          {
+            "text": "sản xuất",
+            "is_correct": 1
+          },
+          {
+            "text": "phân phối.",
+            "is_correct": 0
+          },
+          {
+            "text": "trao đổi.",
+            "is_correct": 0
+          },
+          {
+            "text": "tiêu dùng",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 4
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 6,
+        "question": "Bà Q viết bài đăng báo bày tỏ lòng tri ân đối với các nhân viên y tế đã luôn tiên phong trong cuộc chiến phòng, chống dịch COVID-19. Bà Q đã thực hiện quyền nào sau đây của công dân?",
+        "answers": [
+          {
+            "text": "Tự do ngôn luận.",
+            "is_correct": 1
+          },
+          {
+            "text": "Đối thoại trực tuyến.",
+            "is_correct": 0
+          },
+          {
+            "text": "Kiểm soát truyền thông.",
+            "is_correct": 0
+          },
+          {
+            "text": "Thông cáo báo chí.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 5
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 7,
+        "question": "Khi thực hiện quyền bầu cử, công dân được quyền",
+        "answers": [
+          {
+            "text": "ghi tên vào danh sách cử tri ở nhiều địa phương trên cả nước.",
+            "is_correct": 0
+          },
+          {
+            "text": "tiếp cận các thông tin về bầu cử theo quy định của pháp luật.",
+            "is_correct": 1
+          },
+          {
+            "text": "lợi dụng bầu cử để tuyên truyền trái những thông tin với pháp luật.",
+            "is_correct": 0
+          },
+          {
+            "text": "sử dụng tài sản hoặc lợi ích vật chất để lôi kéo, mua chuộc cử tri.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 6
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 8,
+        "question": "Theo quy định của pháp luật, công dân có thể thực hiện quyền tố cáo trong trường hợp nào sau đây?",
+        "answers": [
+          {
+            "text": "Nhận quyết định điều chuyển công tác.",
+            "is_correct": 0
+          },
+          {
+            "text": "Phát hiện việc khai thác cát trái phép.",
+            "is_correct": 1
+          },
+          {
+            "text": "Phải kê khai tài sản cá nhân.",
+            "is_correct": 0
+          },
+          {
+            "text": "Bị truy thu thuế chưa thỏa đáng.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 7
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 9,
+        "question": "Theo Điều 14 luật di sản văn hóa năm 2001, tổ chức, cá nhân không có quyền nào sau đây?",
+        "answers": [
+          {
+            "text": "Tôn trọng, bảo vệ và phát huy giá trị di sản văn hóa.",
+            "is_correct": 0
+          },
+          {
+            "text": "Ngăn chặn những hành vi phá hoại di sản văn hóa.",
+            "is_correct": 0
+          },
+          {
+            "text": "Định đoạt việc sử dụng và khai thác các di sản văn hóa.",
+            "is_correct": 1
+          },
+          {
+            "text": "Tham quan, nghiên cứu di sản văn hóa.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 8
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 10,
+        "question": "Phát biểu nào sau đây là sai về quan điểm định hướng hội nhập kinh tế ở Việt Nam?",
+        "answers": [
+          {
+            "text": "Tích cực hội nhập kinh tế quốc tế sâu rộng.",
+            "is_correct": 0
+          },
+          {
+            "text": "Đa phương hoá, đa dạng hóa quan hệ quốc tế.",
+            "is_correct": 0
+          },
+          {
+            "text": "Hạn chế tham gia thỏa thuận thương mại quốc tế.",
+            "is_correct": 1
+          },
+          {
+            "text": "Tích cực hội nhập kinh tế quốc tế toàn diện.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 9
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 11,
+        "question": "Nghi ngờ anh V tổ chức cho người nhập cảnh trái phép, ông M là công an viên đã đến nhà anh đưa giấy triệu tập, sau đó cùng anh V về trụ sở công an để lấy lời khai. Mặc dù anh V đã cung cấp bằng chứng ngoại phạm nhưng ông M vẫn ép buộc anh V phải ở lại trụ sở hai ngày để phục vụ công tác điều tra. Ông M đã vi phạm quyền nào sau đây của công dân?",
+        "answers": [
+          {
+            "text": "Bất khả xâm phạm về chỗ ở.",
+            "is_correct": 0
+          },
+          {
+            "text": "Được pháp luật bảo hộ về danh tính.",
+            "is_correct": 0
+          },
+          {
+            "text": "Được pháp luật bảo hộ về thông tin.",
+            "is_correct": 0
+          },
+          {
+            "text": "Bất khả xâm phạm về thân thể.",
+            "is_correct": 1
+          }
+        ],
+        "solution": "",
+        "original_index": 10
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 12,
+        "question": "Sự trao đổi hàng hóa và dịch vụ giữa các quốc gia bao gồm hoạt động xuất khẩu và nhập khẩu hàng hoá, dịch vụ được gọi là",
+        "answers": [
+          {
+            "text": "thương mại quốc tế.",
+            "is_correct": 1
+          },
+          {
+            "text": "dịch vụ thu ngoại tệ.",
+            "is_correct": 0
+          },
+          {
+            "text": "đầu tư quốc tế.",
+            "is_correct": 0
+          },
+          {
+            "text": "thương mại nội địa.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 11
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 13,
+        "question": "Đối với kế hoạch thu, chi mỗi gia đình cần quan tâm đến nội dung nào sau đây khi thống nhất tỉ lệ phân chia khoản thu, chi?",
+        "answers": [
+          {
+            "text": "Không cần thảo luận, thống nhất trong gia đình.",
+            "is_correct": 0
+          },
+          {
+            "text": "Tuyện đối không điều chỉnh trong quá trình thực hiện.",
+            "is_correct": 0
+          },
+          {
+            "text": "Phân bổ số tiền cụ thể cho từng khoản chi.",
+            "is_correct": 1
+          },
+          {
+            "text": "Phân bổ đồng đều cho chi thiết yếu và không thiết yếu.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 12
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 14,
+        "question": "Thanh tra Sở Y tế X phát hiện phòng khám của ông T bán thuốc hết hạn sử dụng với tổng giá trị số thuốc được xác định là 25 triệu đồng. Theo quy định của pháp luật, hành vi bán thuốc hết hạn sử dụng của ông T phải chịu trách nhiệm pháp lý nào sau đây?",
+        "answers": [
+          {
+            "text": "Phạt tiền, thu hồi chứng chỉ hành nghề của ông T.",
+            "is_correct": 0
+          },
+          {
+            "text": "Phạt tiền và buộc tiêu hủy toàn bộ số thuốc hết hạn sử dụng.",
+            "is_correct": 1
+          },
+          {
+            "text": "Thu hồi giấy phép hoạt động đối với phòng khám của ông T.",
+            "is_correct": 0
+          },
+          {
+            "text": "Cảnh cáo và buộc tiêu hủy toàn bộ số thuốc hết hạn sử dụng.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 13
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 15,
+        "question": "Những điều kiện, hoàn cảnh thuận lợi để chủ thể kinh tế thực hiện được mục tiêu kinh doanh (thu lợi nhuận) được gọi là",
+        "answers": [
+          {
+            "text": "cơ hội kinh doanh.",
+            "is_correct": 1
+          },
+          {
+            "text": "năng lực quản trị.",
+            "is_correct": 0
+          },
+          {
+            "text": "ý tưởng kinh doanh.",
+            "is_correct": 0
+          },
+          {
+            "text": "lực lượng lao động.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 14
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 16,
+        "question": "Nội dung nào sau đây phản ánh đúng đường lối, chính sách hội nhập kinh tế quốc tế của Đảng và Nhà nước Việt Nam?",
+        "answers": [
+          {
+            "text": "Cải thiện môi trường thu hút đầu tư nước ngoài.",
+            "is_correct": 1
+          },
+          {
+            "text": "Siết chặt hàng rào thuế quan để bảo hộ thị trường nội địa.",
+            "is_correct": 0
+          },
+          {
+            "text": "Nghiêm cấm tư bản nước ngoài đầu tư tại Việt Nam.",
+            "is_correct": 0
+          },
+          {
+            "text": "Hạn chế việc xuất khẩu lao động và xuất khẩu hàng hóa.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 15
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 17,
+        "question": "Người nào xâm phạm đến quyền sở hữu tài sản và nghĩa vụ tôn trọng tài sản của người khác đều phải",
+        "answers": [
+          {
+            "text": "bị phạt cải tạo giam giữ từ 3 đến 6 tháng trong mọi trường hợp.",
+            "is_correct": 0
+          },
+          {
+            "text": "chịu trách nhiệm pháp lí tương ứng với mức độ vi phạm.",
+            "is_correct": 1
+          },
+          {
+            "text": "bị xử phạt hành chính trong mọi trường hợp.",
+            "is_correct": 0
+          },
+          {
+            "text": "bồi thường và bị phạt cải tạo không giam giữ.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 16
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 18,
+        "question": "Mức độ lạm phát vừa phải sẽ",
+        "answers": [
+          {
+            "text": "kìm hãm sự phát triển của nền kinh tế.",
+            "is_correct": 0
+          },
+          {
+            "text": "đẩy nền kinh tế vào tình trạng khủng hoảng.",
+            "is_correct": 0
+          },
+          {
+            "text": "kích thích sản xuất, kinh doanh phát triển.",
+            "is_correct": 1
+          },
+          {
+            "text": "không có tác động gì tới nền kinh tế.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 17
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 19,
+        "question": "Việc công ty bảo hiểm sử dụng vốn nhàn rỗi của mình để mua cổ phiếu, trái phiếu doanh nghiệp thể hiện vai trò nào sau đây của bảo hiểm?",
+        "answers": [
+          {
+            "text": "Góp phần chuyển giao rủi ro.",
+            "is_correct": 0
+          },
+          {
+            "text": "Là một kênh huy động vốn cho nền kinh tế.",
+            "is_correct": 1
+          },
+          {
+            "text": "Ổn định và tăng thu ngân sách nhà nước.",
+            "is_correct": 0
+          },
+          {
+            "text": "Thúc đẩy hội nhập kinh tế quốc tế.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 18
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 20,
+        "question": "Hệ thống các quy phạm pháp luật có hiệu lực pháp lý cao nhất, quy định về những vấn đề cơ bản nhất về chủ quyền quốc gia, chế độ chính trị, chính sách kinh tế, văn hóa, xã hội, tổ chức quyền lực nhà nước, địa vị pháp lí của con người và công dân là",
+        "answers": [
+          {
+            "text": "Quyết định.",
+            "is_correct": 0
+          },
+          {
+            "text": "Nghị quyết.",
+            "is_correct": 0
+          },
+          {
+            "text": "Hiến pháp.",
+            "is_correct": 1
+          },
+          {
+            "text": "Pháp lệnh.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 19
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 21,
+        "question": "Theo quy định của pháp luật, nhân viên bưu chính vi phạm quyền được bảo đảm an toàn và bí mật thư tín, điện thoại, điện tín của khách hàng khi tự ý thực hiện hành vi nào sau đây?",
+        "answers": [
+          {
+            "text": "Đăng kí tài khoản thư điện tử.",
+            "is_correct": 0
+          },
+          {
+            "text": "Từ chối gói cước khuyến mại.",
+            "is_correct": 0
+          },
+          {
+            "text": "Tính sai cước phí vận chuyển.",
+            "is_correct": 0
+          },
+          {
+            "text": "Công khai nội dung điện tín.",
+            "is_correct": 1
+          }
+        ],
+        "solution": "",
+        "original_index": 20
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 22,
+        "question": "Thông tin: Vào năm 2015, ông T được tiếp cận nguồn vốn vay từ Ngân hàng Chính sách xã hội với số vốn ban đầu là 20 triệu đồng. Ông đã sử dụng số tiền được vay để mua bò giống. Đến năm 2022, từ hai con bò, đàn bò của gia đình ông đã tăng số lượng lên thành 10 con. Nhờ đó, đời sống của gia đình ông được cải thiện đáng kể.<br>   Thông tin trên đề cập đến nội dung nào của chính sách an sinh xã hội?",
+        "answers": [
+          {
+            "text": "Chính sách trợ giúp xã hội.",
+            "is_correct": 0
+          },
+          {
+            "text": "Chính sách về dịch vụ xã hội cơ bản.",
+            "is_correct": 0
+          },
+          {
+            "text": "Chính sách việc làm, thu nhập và giảm nghèo.",
+            "is_correct": 1
+          },
+          {
+            "text": "Chính sách bảo hiểm xã hội.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 21
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 23,
+        "question": "Quản lí thu, chi trong gia đình là sử dụng các khoản thu và chi nhằm đáp ứng nhu cầu vật chất và tinh thần cho",
+        "answers": [
+          {
+            "text": "các thành viên trong gia đình.",
+            "is_correct": 1
+          },
+          {
+            "text": "mọi thành viên trong xã hội.",
+            "is_correct": 0
+          },
+          {
+            "text": "các lợi ích chung của cộng đồng.",
+            "is_correct": 0
+          },
+          {
+            "text": "lợi ích của các doanh nghiệp.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 22
+      }
+    ],
+    [
+      {
+        "type": "type1",
+        "q_num": 24,
+        "question": "Công ty H được hình thành bằng vốn đóng góp của hàng trăm cổ đông. Lợi nhuận của công ty được chia đều theo số cổ phần. Công ty H thuộc m ô hình doanh nghiệp nào dưới đây?",
+        "answers": [
+          {
+            "text": "Công ty cổ phần.",
+            "is_correct": 1
+          },
+          {
+            "text": "Doanh nghiệp tư nhân.",
+            "is_correct": 0
+          },
+          {
+            "text": "Doanh nghiệp nhà nước.",
+            "is_correct": 0
+          },
+          {
+            "text": "Công ty hợp danh.",
+            "is_correct": 0
+          }
+        ],
+        "solution": "",
+        "original_index": 23
+      }
+    ]
+  ],
+  "type2": [
+    [
+      {
+        "type": "type2",
+        "q_num": 25,
+        "question": "Đọc đoạn thông tin sau:<br>Trước bối cảnh người tiêu dùng đã thể hiện rõ sự ủng hộ những doanh nghiệp kinh doanh có trách nhiệm xã hội, các doanh nghiệp tại Việt Nam cũng đã và đang nỗ lực thực hiện các hoạt động vì cộng đồng. Công ty S là một trong những thương hiệu tiên phong nỗ lực chinh phục được người tiêu dùng bằng \"chất lượng xã hội của sản phẩm”. Mới đây, công ty S tổ chức Vòng Chung kết và Lễ Trao \"Solve for Tomorrow\" năm thứ 5, nhằm tìm ra các dự án sáng tạo công nghệ xuất sắc góp phần giải quyết các vấn đề của xã hội và địa phương. Với tầm nhìn \"Together for Tomorrow! Enabling People\" (Cùng nhau vì ngày mai! Trao quyền cho mọi người), Công ty S đang tập trung triển khai các hoạt động bồi dưỡng thế hệ trẻ tương lai thông qua nhiều chương trình. Trong đó, dự án “Ngôi trường hi vọng\" nhằm mang lại cơ hội học tập ngoại khóa cho các em nhỏ có hoàn cảnh khó khăn cũng là một trong những dự án được công ty chú trọng triển khai.",
+        "options": [
+          {
+            "text": "Đảm bảo “chất lượng xã hội của sản phẩm\" không phải là trách nhiệm bắt buộc của doanh nghiệp đối với xã hội.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Dự án “Ngôi trường hi vọng\" mục đích chính là thu một khoản lợi nhuận lớn cho Công ty S và thu hút đầu tư trong và ngoài nước.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Hiệu ứng xã hội từ mô hình “Ngôi trường hi vọng\" chính là tiêu chí cho chiến lược phát triển bền vững của Công ty S.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Trách nhiệm xã hội là công cụ đắc lực giúp cho doanh nghiệp nâng cao vị thế và sức cạnh tranh với các đối thủ trong khu vực.",
+            "correct_answer": "Đ"
+          }
+        ],
+        "solution": "",
+        "original_index": 24
+      }
+    ],
+    [
+      {
+        "type": "type2",
+        "q_num": 26,
+        "question": "Đọc đoạn thông tin sau:<br>Nhờ sự hội nhập quốc tế, nguồn vốn đầu tư trực tiếp nước ngoài (FDI) vào Việt Nam tăng mạnh qua các năm, từ 10 tỉ USD (năm 1995) lên 38 tỉ USD (năm 2019). Năm 2019, Việt Nam xếp thứ 21 về thu hút vốn FDI toàn thế giới, đứng thứ ba ở khu vực, chỉ sau Singapore và Indonesia. Những năm qua, kim ngạch xuất – nhập khẩu hàng hoá và dịch vụ của Việt Nam tăng trưởng vượt bậc. Tiêu biểu như năm 2019, tổng kim ngạch xuất, nhập khẩu hàng hoá của Việt Nam sang ASEAN đạt 57 tỉ USD, tăng gấp 17 lần so với năm 1995, trong đó xuất khẩu đạt 24,96 tỉ USD, nhập khẩu đạt 32,09 tỉ USD. ASEAN là đối tác xuất khẩu lớn thứ tư của Việt Nam (sau Mỹ, EU, Trung Quốc) và là thị trường cung cấp hàng hoá nhập khẩu lớn thứ ba vào Việt Nam (sau Trung Quốc và Hàn Quốc).<br>(Theo: Tạp chí Cộng sản, “Việt Nam – ASEAN: Hai mươi lăm năm một chặng đường”, ngày 14/08/2020)",
+        "options": [
+          {
+            "text": "Nhờ sự hội nhập khu vực mà khởi đầu là ASEAN, nguồn vốn đầu tư trực tiếp nước ngoài (FDI) vào Việt Nam vẫn duy trì qua các năm.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Tham gia vào cộng đồng kinh tế ASEAN đã giúp Việt Nam mở rộng thị trường, thu hút vốn đầu tư, có cơ hội tiếp cận và sử dụng các nguồn lực bên ngoài.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "ASEAN là thị trường xuất khẩu lớn thứ ba của Việt Nam sau Trung Quốc và Hàn Quốc.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Vốn đầu tư trực tiếp nước ngoài (FDI) còn có tên gọi khác là vốn ODA.",
+            "correct_answer": "S"
+          }
+        ],
+        "solution": "",
+        "original_index": 25
+      }
+    ],
+    [
+      {
+        "type": "type2",
+        "q_num": 27,
+        "question": "Đọc đoạn thông tin sau:<br>Chủ quyền đối với nội thủy, lãnh hải: Theo về Công ước Liên hợp quốc về Luật Biển (UNCLOS) năm 1982, các quốc gia ven biển có chủ quyền đối với nội thủy và lãnh hải của mình, chủ quyền này cũng được mở rộng vùng trời ở bên trên đến vùng đáy biển và lòng đất dưới đáy biển ở bên dưới các vùng biển đó. Điều 8, khoản 1 của UNCLOS định nghĩa nội thuỷ là “các vùng nước ở phía bên trong đường cơ sở dùng để tính chiều rộng lãnh hải\". Trong vùng nội thuỷ, các quốc gia ven biển có chủ quyền hoàn toàn, tuyệt đối và đầy đủ như trên lãnh thổ đất liền của mình. Tàu thuyền mước ngoài muốn ra vào vùng nội thủy phải xin phép quốc gia ven biển và phải tuân theo luật lệ của quốc gia đó.",
+        "options": [
+          {
+            "text": "Các phương tiện bay nước ngoài không được vào vùng trời ở trên lãnh hải Việt Nam, trừ trường hợp được sự đồng ý của Chính phủ Việt Nam hoặc thực hiện theo điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Lãnh hải là vùng biển nằm phía ngoài và tiếp liền nội thuỷ, có chiều rộng không vượt quá 12 hải lí tính từ đường cơ sở ra phía biển.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Nhà nước ta thực hiện chủ quyền đầy đủ và toàn vẹn đối với lãnh hải và vùng trời, đáy biển và lòng đất dưới đáy biển của lãnh hải phù hợp với Công tước Liên hợp quốc về Luật Biển năm 1982.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Nhà nước có chủ quyền đối với mọi loại hiện vật khảo cổ lịch sử trong lãnh hải Việt Nam.",
+            "correct_answer": "Đ"
+          }
+        ],
+        "solution": "",
+        "original_index": 26
+      }
+    ],
+    [
+      {
+        "type": "type2",
+        "q_num": 28,
+        "question": "Đọc đoạn thông tin sau:<br>Trong vòng 6 năm, chị H là chủ của nhiều cửa hàng kinh doanh \"online\" từ quần áo trẻ em đến thực phẩm chức năng. Do nguồn hàng tốt cùng cách thức tiếp thị hấp dẫn nên doanh thu từ kinh doanh qua mạng của chị rất khả quan. Bình quân mỗi ngày các cửa hàng kinh doanh online của chị có doanh thu khoảng 5 triệu đồng. Mỗi tháng, chị chỉ mất khoảng 300.000 đồng trả cho nhà mạng, sau đó thuê một sinh viên công nghệ thông tin thường xuyên đưa các mẫu mới lên quảng bá bán hàng mà không kê khai bất kì khoản thuế nào. Thấy chị H kinh doanh online có nguồn thu ổn định, chị T cũng đăng kí cửa hàng kinh doanh online trên sàn thương mại điện tử. Sau khi được người nhà tư vấn, chị T đã kê khai thuế với cơ quan chức năng. Do mới bán hàng online, chưa có kinh nghiệm nên doanh thu của chị T đạt chưa đến 50 triệu mỗi tháng.",
+        "options": [
+          {
+            "text": "Do doanh thu chưa đến 50 triệu một tháng nên mặc dù chị T có kê khai thuế cũng không phải đóng thuế thu nhập cá nhân.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Chỉ những người kinh doanh có địa điểm cố định mới phải nộp thuế, kinh doanh online không phải nộp thuế.",
+            "correct_answer": "S"
+          },
+          {
+            "text": "Hành vi của chị H trong trường hợp trên là hành vi trốn thuế có thể bị xử phạt vi phạm hành chính.",
+            "correct_answer": "Đ"
+          },
+          {
+            "text": "Việc kê khai thuế của chị T là phù hợp với quy định của pháp luật. Chị H không kê khai thuế là không thực hiện đúng nghĩa vụ kinh doanh.",
+            "correct_answer": "Đ"
+          }
+        ],
+        "solution": "",
+        "original_index": 27
+      }
+    ]
+  ],
+  "type3": [],
+  "general_content": []
+}
