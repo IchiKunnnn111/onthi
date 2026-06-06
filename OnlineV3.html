@@ -804,10 +804,13 @@ function loadTimer_noElapsed() {
 function shuffleArray(array) {
     for (let i = array.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
+        const temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
     }
 }
 // new 26/1 ẩn menu
+
 document.addEventListener('DOMContentLoaded', () => {
     populateIntro();
     document.getElementById('toggle-results-btn')?.addEventListener('click', () => {
@@ -901,12 +904,16 @@ function shuffleInPlaceByType(arr, type) {
         .filter(([q]) => q.type === type)
         .map(([, i]) => i);
 
+
     for (let i = indexes.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
-        [arr[indexes[i]], arr[indexes[j]]] = [arr[indexes[j]], arr[indexes[i]]];
+        const temp = arr[indexes[i]];
+        arr[indexes[i]] = arr[indexes[j]];
+        arr[indexes[j]] = temp;
     }
 }
 //271
+
 function checkPasswordAndStart(isNewStart) {
     const pInput = document.getElementById("quizPasswordInput");
     const userInput = pInput ? pInput.value.trim() : ""; // Dùng trim() để tránh học sinh gõ thừa dấu cách
@@ -1009,19 +1016,26 @@ function startQuiz() {
                             }
                             selectedQuizData.push(q);
                         } else {
-                            selectedQuizData.push({ ...chosen, original_index: originalIndex++ });
+                            // Tạo bản sao để trộn đáp án không làm thay đổi dữ liệu gốc
+                            let q = { ...chosen, original_index: originalIndex++ };
+                            if (chosen.answers) q.answers = [...chosen.answers];
+                            if (chosen.options) q.options = [...chosen.options];
+                            selectedQuizData.push(q);
                         }
                     }
                 });
             }
         });
 
-        // Shuffle theo cài đặt
+        // ÉP BUỘC TRỘN CÂU HỎI VÀ ĐÁP ÁN (Bỏ qua cấu hình JSON)
+        shuffleOptions.shuffle_q_type1 = true;
+        shuffleOptions.shuffle_q_type2 = true;
+        shuffleOptions.shuffle_q_type3 = true;
+        shuffleOptions.shuffle_a_type1 = true;
+        shuffleOptions.shuffle_a_type2 = true;
+
         if (shuffleOptions.shuffle_q_type1) shuffleInPlaceByType(selectedQuizData, 'type1');
         if (shuffleOptions.shuffle_q_type2) shuffleInPlaceByType(selectedQuizData, 'type2');
-        if (shuffleOptions.shuffle_q_type3) shuffleInPlaceByType(selectedQuizData, 'type3');
-        if (shuffleOptions.shuffle_a_type1) { selectedQuizData.filter(q => q.type === 'type1').forEach(q => shuffleArray(q.answers)); }
-        if (shuffleOptions.shuffle_a_type2) { selectedQuizData.filter(q => q.type === 'type2').forEach(q => { if (q.options) shuffleArray(q.options); }); }
 
         quizData = selectedQuizData;
 
