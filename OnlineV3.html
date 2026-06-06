@@ -3,7 +3,7 @@
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
-    <title>Mix Easy_Online</title>
+    <title>OnThi</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!--<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>-->
     <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/polyfill/3.25.1/polyfill.min.js"></script>-->
@@ -539,9 +539,9 @@ let QUIZ_PASSWORD_ORIGINAL = ""; // Biến lưu mật khẩu từ JSON
 let mode_xuatketqua = "GV_TL"
 let QUIZ_MODE_CSV = true; // Mặc định cho phép xuất CSV, sẽ được cập nhật từ JSON nếu có
 let shuffleOptions = {
-    "shuffle_q_type1": false, "shuffle_a_type1": false, 
-    "shuffle_q_type2": false, "shuffle_a_type2": false, 
-    "shuffle_q_type3": false
+    "shuffle_q_type1": true, "shuffle_a_type1": true, 
+    "shuffle_q_type2": true, "shuffle_a_type2": true, 
+    "shuffle_q_type3": true
 };
 let SCORING_CONFIG = {
     type1: 0.25,
@@ -1559,6 +1559,23 @@ function finalizeSubmit() {
     submitBtn.textContent = 'Đã nộp';
     lockAnswerInputs();
     xuatketqua();
+   // Ẩn 3 nút điều hướng và nút nộp bài ở cuối trang
+    const btnGroup = document.querySelector('.btn-group');
+    if (btnGroup) {
+        btnGroup.style.display = 'none';
+    }
+    
+    // Ẩn các nút menu 3 gạch (cả trên desktop và điện thoại)
+    const desktopToggleBtn = document.getElementById('desktop-toggle-btn');
+    if (desktopToggleBtn) {
+        desktopToggleBtn.style.display = 'none';
+    }
+    const mobileToggleBtn = document.getElementById('toggle-results-btn');
+    if (mobileToggleBtn) {
+        mobileToggleBtn.style.display = 'none';
+    }
+
+
 
     // 🔄 GỬI DỮ LIỆU ở BACKGROUND (không đợi)
     if (!SCRIPT_URL || !/^https?:\/\//.test(SCRIPT_URL)) {
