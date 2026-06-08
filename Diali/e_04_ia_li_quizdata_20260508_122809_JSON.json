@@ -35,19 +35,19 @@
         "question": "Vùng biển nước ta giáp với vùng biển của quốc gia nào sau đây?",
         "answers": [
           {
-            "text": "Bru-nây.",
-            "is_correct": 1
-          },
-          {
             "text": "Lào.",
             "is_correct": 0
           },
           {
-            "text": "Nhật Bản.",
-            "is_correct": 0
+            "text": "Bru-nây.",
+            "is_correct": 1
           },
           {
             "text": "Mi-an-ma.",
+            "is_correct": 0
+          },
+          {
+            "text": "Nhật Bản.",
             "is_correct": 0
           }
         ],
@@ -62,19 +62,19 @@
         "question": "Vị trí địa lí và hình thể của nước ta đã tạo nên",
         "answers": [
           {
-            "text": "sự phân hoá đa dạng của tự nhiên.",
-            "is_correct": 1
-          },
-          {
-            "text": "tài nguyên khoáng sản phong phú.",
-            "is_correct": 0
-          },
-          {
             "text": "khí hậu cận nhiệt với mùa đông lạnh.",
             "is_correct": 0
           },
           {
             "text": "một mạng lưới sông ngòi dày đặc.",
+            "is_correct": 0
+          },
+          {
+            "text": "sự phân hoá đa dạng của tự nhiên.",
+            "is_correct": 1
+          },
+          {
+            "text": "tài nguyên khoáng sản phong phú.",
             "is_correct": 0
           }
         ],
@@ -89,6 +89,10 @@
         "question": "Những năm gần đây tỉ lệ dân thành thị nước ta",
         "answers": [
           {
+            "text": "có xu hướng giảm.",
+            "is_correct": 0
+          },
+          {
             "text": "liên tục tăng lên.",
             "is_correct": 1
           },
@@ -98,10 +102,6 @@
           },
           {
             "text": "ở mức rất cao.",
-            "is_correct": 0
-          },
-          {
-            "text": "có xu hướng giảm.",
             "is_correct": 0
           }
         ],
@@ -116,19 +116,19 @@
         "question": "Lao động nước ta hiện nay",
         "answers": [
           {
-            "text": "tăng nhanh và phân bố không đều.",
-            "is_correct": 1
-          },
-          {
             "text": "số lượng đông đảo, thất nghiệp ít.",
             "is_correct": 0
           },
           {
-            "text": "chủ yếu là lao động có trình độ cao.",
+            "text": "tập trung toàn bộ ở ngành dịch vụ.",
             "is_correct": 0
           },
           {
-            "text": "tập trung toàn bộ ở ngành dịch vụ.",
+            "text": "tăng nhanh và phân bố không đều.",
+            "is_correct": 1
+          },
+          {
+            "text": "chủ yếu là lao động có trình độ cao.",
             "is_correct": 0
           }
         ],
@@ -143,10 +143,6 @@
         "question": "Cây công nghiệp hàng năm được phát triển ở nước ta hiện nay là cây",
         "answers": [
           {
-            "text": "lạc.",
-            "is_correct": 1
-          },
-          {
             "text": "ngô.",
             "is_correct": 0
           },
@@ -157,6 +153,10 @@
           {
             "text": "lúa.",
             "is_correct": 0
+          },
+          {
+            "text": "lạc.",
+            "is_correct": 1
           }
         ],
         "solution": "",
@@ -170,19 +170,19 @@
         "question": "Hoạt động ngoại thương của nước ta hiện nay",
         "answers": [
           {
-            "text": "trị giá xuất nhập khẩu tăng liên tục.",
-            "is_correct": 1
-          },
-          {
             "text": "gắn với ngành vận tải đường ô tô.",
             "is_correct": 0
           },
           {
-            "text": "sản phẩm xuất khẩu chưa đa dạng.",
-            "is_correct": 0
+            "text": "trị giá xuất nhập khẩu tăng liên tục.",
+            "is_correct": 1
           },
           {
             "text": "chủ yếu xuất khẩu hàng nhiên liệu.",
+            "is_correct": 0
+          },
+          {
+            "text": "sản phẩm xuất khẩu chưa đa dạng.",
             "is_correct": 0
           }
         ],
@@ -197,20 +197,20 @@
         "question": "Khu công nghệ cao ở nước ta hiện nay",
         "answers": [
           {
-            "text": "thu hút được nhiều vốn đầu tư.",
-            "is_correct": 1
-          },
-          {
-            "text": "phân bố đồng đều ở các vùng.",
-            "is_correct": 0
-          },
-          {
             "text": "do các doanh nghiệp thành lập.",
             "is_correct": 0
           },
           {
             "text": "chỉ sử dụng lao động phổ thông.",
             "is_correct": 0
+          },
+          {
+            "text": "phân bố đồng đều ở các vùng.",
+            "is_correct": 0
+          },
+          {
+            "text": "thu hút được nhiều vốn đầu tư.",
+            "is_correct": 1
           }
         ],
         "solution": "",
@@ -224,19 +224,19 @@
         "question": "Ở nước ta, bão thường có đặc điểm là",
         "answers": [
           {
-            "text": "hoạt động mạnh nhất ở miền Trung.",
-            "is_correct": 1
-          },
-          {
             "text": "chỉ diễn ra ở phía bắc vĩ tuyến 160B.",
             "is_correct": 0
           },
           {
-            "text": "diễn ra trong suốt năm trên cả nước.",
-            "is_correct": 0
+            "text": "hoạt động mạnh nhất ở miền Trung.",
+            "is_correct": 1
           },
           {
             "text": "tất cả đều xuất phát từ biển Đông.",
+            "is_correct": 0
+          },
+          {
+            "text": "diễn ra trong suốt năm trên cả nước.",
             "is_correct": 0
           }
         ],
@@ -251,19 +251,19 @@
         "question": "Đông Nam Bộ phát triển mạnh công nghiệp sản xuất, chế biến thực phẩm chủ yếu do có lợi thế về",
         "answers": [
           {
-            "text": "nguyên liệu, lao động, thị trường.",
-            "is_correct": 1
-          },
-          {
             "text": "công nghệ, vốn đầu tư, lao động.",
             "is_correct": 0
           },
           {
-            "text": "nhiên liệu, khoáng sản, hạ tầng.",
-            "is_correct": 0
+            "text": "nguyên liệu, lao động, thị trường.",
+            "is_correct": 1
           },
           {
             "text": "vị trí địa lí, nguyên liệu, khoa học.",
+            "is_correct": 0
+          },
+          {
+            "text": "nhiên liệu, khoáng sản, hạ tầng.",
             "is_correct": 0
           }
         ],
@@ -278,19 +278,19 @@
         "question": "Ngành công nghiệp của Đồng bằng sông Hồng hiện nay",
         "answers": [
           {
-            "text": "giá trị sản xuất ngày càng tăng mạnh.",
-            "is_correct": 1
-          },
-          {
             "text": "cơ cấu sản phẩm còn kém đa dạng.",
             "is_correct": 0
           },
           {
-            "text": "có ít khu công nghiệp nhất cả nước.",
+            "text": "chưa có khu công nghiệp tập trung.",
             "is_correct": 0
           },
           {
-            "text": "chưa có khu công nghiệp tập trung.",
+            "text": "giá trị sản xuất ngày càng tăng mạnh.",
+            "is_correct": 1
+          },
+          {
+            "text": "có ít khu công nghiệp nhất cả nước.",
             "is_correct": 0
           }
         ],
@@ -305,19 +305,19 @@
         "question": "Nhân tố quan trọng nhất để Đồng bằng sông Cửu Long trở thành vùng chuyên canh lương thực số một của cả nước là",
         "answers": [
           {
-            "text": "có diện tích đất phù sa ngọt lớn.",
-            "is_correct": 1
-          },
-          {
             "text": "khí hậu mang tính chất cận xích đạo.",
             "is_correct": 0
           },
           {
-            "text": "thời tiết luôn ổn định, ít có thiên tai.",
+            "text": "mạng lưới sông ngòi, kênh rạch dày đặc.",
             "is_correct": 0
           },
           {
-            "text": "mạng lưới sông ngòi, kênh rạch dày đặc.",
+            "text": "có diện tích đất phù sa ngọt lớn.",
+            "is_correct": 1
+          },
+          {
+            "text": "thời tiết luôn ổn định, ít có thiên tai.",
             "is_correct": 0
           }
         ],
@@ -332,19 +332,19 @@
         "question": "Giải pháp chủ yếu để phát triển cây dược liệu theo hướng sản xuất hàng hoá ở vùng Trung du và miền núi phía Bắc là",
         "answers": [
           {
-            "text": "sản xuất tập trung, đẩy mạnh việc chế biến, phát triển thị trường.",
-            "is_correct": 1
-          },
-          {
             "text": "đa dạng sản phẩm, gắn trồng trọt với chế biến, nâng cao sản lượng.",
             "is_correct": 0
           },
           {
-            "text": "sử dụng kĩ thuật mới, tăng diện tích, đẩy mạnh tiếp thị sản phẩm.",
+            "text": "lập vùng chuyên canh, tăng năng suất, tạo thương hiệu sản phẩm.",
             "is_correct": 0
           },
           {
-            "text": "lập vùng chuyên canh, tăng năng suất, tạo thương hiệu sản phẩm.",
+            "text": "sản xuất tập trung, đẩy mạnh việc chế biến, phát triển thị trường.",
+            "is_correct": 1
+          },
+          {
+            "text": "sử dụng kĩ thuật mới, tăng diện tích, đẩy mạnh tiếp thị sản phẩm.",
             "is_correct": 0
           }
         ],
@@ -359,19 +359,19 @@
         "question": "Thuận lợi để phát triển cây trồng có nguồn gốc nhiệt đới ở Nam Trung Bộ là",
         "answers": [
           {
-            "text": "khí hậu mang tính chất cận Xích đạo, phân hoá theo mùa rõ rệt.",
-            "is_correct": 1
-          },
-          {
             "text": "các cao nguyên khá bằng phẳng, rộng với đất ba dan màu mỡ.",
             "is_correct": 0
           },
           {
-            "text": "các khối núi với sự phân hoá của cảnh quan tự nhiên, khí hậu.",
-            "is_correct": 0
+            "text": "khí hậu mang tính chất cận Xích đạo, phân hoá theo mùa rõ rệt.",
+            "is_correct": 1
           },
           {
             "text": "có nhiều sông, thượng nguồn sông có trữ lượng thuỷ năng lớn.",
+            "is_correct": 0
+          },
+          {
+            "text": "các khối núi với sự phân hoá của cảnh quan tự nhiên, khí hậu.",
             "is_correct": 0
           }
         ],
@@ -383,22 +383,23 @@
       {
         "type": "type1",
         "q_num": 14,
-        "question": "Cho biểu đồ sau:<br><img src=\"data:image/png;base64,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\"><br>SỐ LƯỢNG TRÂU, BÒ CỦA VÙNG TRUNG DU VÀ MIỀN NÚI PHÍA BẮC<br> NĂM 2010 VÀ NĂM 2024<br>Nhận xét nào sau đây đúng với biểu đồ trên?",
+        "question": "Cho biểu đồ sau:<br><img src=\"data:image/png;base64,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痕迹.png",
+        "question": "Cho biểu đồ sau:<br><img src=\"data:image/png;base64,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®m_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\"><br>SỐ LƯỢNG TRÂU, BÒ CỦA VÙNG TRUNG DU VÀ MIỀN NÚI PHÍA BẮC<br> NĂM 2010 VÀ NĂM 2024<br>Nhận xét nào sau đây đúng với biểu đồ trên?",
         "answers": [
-          {
-            "text": "Năm  2024 so với năm 2010, số lượng bò tăng 170 nghìn con.",
-            "is_correct": 1
-          },
-          {
-            "text": "Năm  2024 so với năm 2010, số lượng trâu tăng 471,3 nghìn con.",
-            "is_correct": 0
-          },
           {
             "text": "Số lượng trâu luôn nhiều hơn số lượng bò và ngày càng tăng.",
             "is_correct": 0
           },
           {
             "text": "Số lượng bò luôn nhiều hơn số lượng trâu và ngày càng tăng.",
+            "is_correct": 0
+          },
+          {
+            "text": "Năm  2024 so với năm 2010, số lượng bò tăng 170 nghìn con.",
+            "is_correct": 1
+          },
+          {
+            "text": "Năm  2024 so với năm 2010, số lượng trâu tăng 471,3 nghìn con.",
             "is_correct": 0
           }
         ],
@@ -413,19 +414,19 @@
         "question": "Nước ta luôn đặt nhiệm vụ bảo vệ chủ quyền, toàn vẹn lãnh thổ cùng với quá trình phát triển kinh tế – xã hội chủ yếu do",
         "answers": [
           {
-            "text": "đường biên giới dài, vùng biển rộng và giàu tiềm năng, tiếp giáp với nhiều nước.",
-            "is_correct": 1
-          },
-          {
             "text": "giáp với nhiều nước, đường biên giới dài, nằm trên các tuyến đường quốc tế.",
             "is_correct": 0
           },
           {
-            "text": "biên giới trên bộ dài, biển giàu tiềm năng, là lối thông ra biển của nhiều nước.",
-            "is_correct": 0
+            "text": "đường biên giới dài, vùng biển rộng và giàu tiềm năng, tiếp giáp với nhiều nước.",
+            "is_correct": 1
           },
           {
             "text": "biển rộng và nhiều nguồn lợi, án ngữ tuyến hàng hải quốc tế, tiếp giáp với nhiều nước.",
+            "is_correct": 0
+          },
+          {
+            "text": "biên giới trên bộ dài, biển giàu tiềm năng, là lối thông ra biển của nhiều nước.",
             "is_correct": 0
           }
         ],
@@ -440,19 +441,19 @@
         "question": "Sản lượng ngành trồng trọt ở nước ta thường biến động chủ yếu do nguyên nhân nào sau đây?",
         "answers": [
           {
-            "text": "Có nhiều thiên tai, sâu bệnh diễn ra trên diện rộng.",
-            "is_correct": 1
-          },
-          {
             "text": "Diện tích đất thu hẹp, đất thoái hóa ngày càng tăng.",
             "is_correct": 0
           },
           {
-            "text": "Thiếu giống cây trồng, chủ yếu có năng suất thấp.",
+            "text": "Nguồn cung cấp nước giảm, thiếu nước vào mùa khô.",
             "is_correct": 0
           },
           {
-            "text": "Nguồn cung cấp nước giảm, thiếu nước vào mùa khô.",
+            "text": "Có nhiều thiên tai, sâu bệnh diễn ra trên diện rộng.",
+            "is_correct": 1
+          },
+          {
+            "text": "Thiếu giống cây trồng, chủ yếu có năng suất thấp.",
             "is_correct": 0
           }
         ],
@@ -467,19 +468,19 @@
         "question": "Ý nghĩa chủ yếu của việc hình thành vùng tập trung chăn nuôi gia súc lớn ở Bắc Trung Bộ là",
         "answers": [
           {
-            "text": "nâng cao hiệu quả kinh tế, sử dụng hiệu quả các nguồn lực.",
-            "is_correct": 1
-          },
-          {
             "text": "giải quyết việc làm, tạo nguồn hàng xuất khẩu thu ngoại tệ.",
             "is_correct": 0
           },
           {
-            "text": "khai thác tốt hơn thế mạnh, thu hút mạnh nguồn vốn đầu tư.",
+            "text": "tạo nhiều nông sản hàng hoá, sử dụng hợp lí tài nguyên đất.",
             "is_correct": 0
           },
           {
-            "text": "tạo nhiều nông sản hàng hoá, sử dụng hợp lí tài nguyên đất.",
+            "text": "nâng cao hiệu quả kinh tế, sử dụng hiệu quả các nguồn lực.",
+            "is_correct": 1
+          },
+          {
+            "text": "khai thác tốt hơn thế mạnh, thu hút mạnh nguồn vốn đầu tư.",
             "is_correct": 0
           }
         ],
@@ -494,19 +495,19 @@
         "question": "Chuyển đổi cơ cấu kinh tế là định hướng quan trọng ở đồng bằng sông Cửu Long chủ yếu nhằm",
         "answers": [
           {
-            "text": "tăng trưởng kinh tế, thích ứng với biến đổi khí hậu.",
-            "is_correct": 1
-          },
-          {
             "text": "khai thác hiệu quả tài nguyên sinh vật và khí hậu.",
             "is_correct": 0
           },
           {
-            "text": "thúc đẩy phát triển lâm nghiệp và cơ sở hạ tầng.",
-            "is_correct": 0
+            "text": "tăng trưởng kinh tế, thích ứng với biến đổi khí hậu.",
+            "is_correct": 1
           },
           {
             "text": "giải quyết việc làm, nâng cao chất lượng nhân lực.",
+            "is_correct": 0
+          },
+          {
+            "text": "thúc đẩy phát triển lâm nghiệp và cơ sở hạ tầng.",
             "is_correct": 0
           }
         ],
@@ -554,7 +555,7 @@
             "correct_answer": "Đ"
           },
           {
-            "text": "Sự xuất hiện của các dịch vụ như du lịch ảo chứng tỏ công nghệ đã hoàn toàn thay thế các hình thức dịch vụ truyền thống.",
+            "text": "Sự xuất hiện của các dịch vụ như du lịch ảo chứng tỏ công nghệ đã hoàn toàn thế các hình thức dịch vụ truyền thống.",
             "correct_answer": "S"
           },
           {
